@@ -47,19 +47,104 @@ Abstract:
 
 _Tags: `transfer learning`, `gans`, `deep fakes`, `deep learning`_
 
-### 2019-03-12 - Scaling Node.js applications with Kubernetes and Docker (en-us)
+### 2019-03-10 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
 
-<a href="https://js-kongress.com" target="_blank">JS Kongress 2019 -  (R)evolution of Architectures</a>
+<a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
 
-<a href="http://bit.ly/erickwendel-k8s-nodejs-jskongress2019" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-15-10-%20Transfer_Learning_GANs_Deep_Fakes" target="_blank">photos</a> 
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
 
 Abstract:
 
-> We will explore the benefits of DevOps process using Kubernetes, Docker, and Node.js. Showing how Docker and Node.js can work together, using the power of Kubernetes to release and to scale automatically stateless services. At this talk we will explore the key concepts and components to start working with Kubernetes, real scenarios and the differences between the traditional approach compared to Container based applications. Attendees will learn about the basics of Kubernetes and tips to scale Node.js applications furthermore they will learn the common problems that we face when we decide to change from monoliths to microservices using Docker and JavaScript.
+> High dropout rates are a serious and quite common problem in many countries around the globe, both in traditional teaching and learning environments, in both private and public education. Higher rates tend to have a negative impact on all profiles involved: students, institutions and the general public; noting that, despite the student's own loss of educational gain that evades, there is also monetary loss to the system in question, social stigma and feelings of inadequacy that may be associated with such dropout, and loss of cultural, social and interpersonal spheres arising from educational processes. Therefore, early detection systems regarding school dropout have gained more prominence, especially regarding the possibility of being a framework for the elaboration of new public policies, while also helping to better understand the probable causes for this dropout.
 > 
 > 
 
-_Tags: `kubernetes`, `k8s`, `node.js`, `javascript`_
+_Tags: `machine learning`, `dropout risk prediction`, `supervised classification`, `educational data mining`_
+
+### 2019-03-10 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
+
+<a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+> High dropout rates are a serious and quite common problem in many countries around the globe, both in traditional teaching and learning environments, in both private and public education. Higher rates tend to have a negative impact on all profiles involved: students, institutions and the general public; noting that, despite the student's own loss of educational gain that evades, there is also monetary loss to the system in question, social stigma and feelings of inadequacy that may be associated with such dropout, and loss of cultural, social and interpersonal spheres arising from educational processes. Therefore, early detection systems regarding school dropout have gained more prominence, especially regarding the possibility of being a framework for the elaboration of new public policies, while also helping to better understand the probable causes for this dropout.
+> 
+> 
+
+_Tags: `machine learning`, `dropout risk prediction`, `supervised classification`, `educational data mining`_
+
+### 2019-03-10 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
+
+<a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+> High dropout rates are a serious and quite common problem in many countries around the globe, both in traditional teaching and learning environments, in both private and public education. Higher rates tend to have a negative impact on all profiles involved: students, institutions and the general public; noting that, despite the student's own loss of educational gain that evades, there is also monetary loss to the system in question, social stigma and feelings of inadequacy that may be associated with such dropout, and loss of cultural, social and interpersonal spheres arising from educational processes. Therefore, early detection systems regarding school dropout have gained more prominence, especially regarding the possibility of being a framework for the elaboration of new public policies, while also helping to better understand the probable causes for this dropout.
+> 
+> 
+
+_Tags: `machine learning`, `dropout risk prediction`, `supervised classification`, `educational data mining`_
+
+### 2019-03-10 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
+
+<a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+> High dropout rates are a serious and quite common problem in many countries around the globe, both in traditional teaching and learning environments, in both private and public education. Higher rates tend to have a negative impact on all profiles involved: students, institutions and the general public; noting that, despite the student's own loss of educational gain that evades, there is also monetary loss to the system in question, social stigma and feelings of inadequacy that may be associated with such dropout, and loss of cultural, social and interpersonal spheres arising from educational processes. Therefore, early detection systems regarding school dropout have gained more prominence, especially regarding the possibility of being a framework for the elaboration of new public policies, while also helping to better understand the probable causes for this dropout.
+> 
+> 
+
+_Tags: `machine learning`, `dropout risk prediction`, `supervised classification`, `educational data mining`_
+
+### 2019-03-10 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
+
+<a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+> High dropout rates are a serious and quite common problem in many countries around the globe, both in traditional teaching and learning environments, in both private and public education. Higher rates tend to have a negative impact on all profiles involved: students, institutions and the general public; noting that, despite the student's own loss of educational gain that evades, there is also monetary loss to the system in question, social stigma and feelings of inadequacy that may be associated with such dropout, and loss of cultural, social and interpersonal spheres arising from educational processes. Therefore, early detection systems regarding school dropout have gained more prominence, especially regarding the possibility of being a framework for the elaboration of new public policies, while also helping to better understand the probable causes for this dropout.
+> 
+> 
+
+_Tags: `machine learning`, `dropout risk prediction`, `supervised classification`, `educational data mining`_
+
+### 2019-03-10 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
+
+<a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+> High dropout rates are a serious and quite common problem in many countries around the globe, both in traditional teaching and learning environments, in both private and public education. Higher rates tend to have a negative impact on all profiles involved: students, institutions and the general public; noting that, despite the student's own loss of educational gain that evades, there is also monetary loss to the system in question, social stigma and feelings of inadequacy that may be associated with such dropout, and loss of cultural, social and interpersonal spheres arising from educational processes. Therefore, early detection systems regarding school dropout have gained more prominence, especially regarding the possibility of being a framework for the elaboration of new public policies, while also helping to better understand the probable causes for this dropout.
+> 
+> 
+
+_Tags: `machine learning`, `dropout risk prediction`, `supervised classification`, `educational data mining`_
+
+### 2019-03-10 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
+
+<a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+> High dropout rates are a serious and quite common problem in many countries around the globe, both in traditional teaching and learning environments, in both private and public education. Higher rates tend to have a negative impact on all profiles involved: students, institutions and the general public; noting that, despite the student's own loss of educational gain that evades, there is also monetary loss to the system in question, social stigma and feelings of inadequacy that may be associated with such dropout, and loss of cultural, social and interpersonal spheres arising from educational processes. Therefore, early detection systems regarding school dropout have gained more prominence, especially regarding the possibility of being a framework for the elaboration of new public policies, while also helping to better understand the probable causes for this dropout.
+> 
+> 
+
+_Tags: `machine learning`, `dropout risk prediction`, `supervised classification`, `educational data mining`_
+
 
 
 ## Projects
