@@ -11,7 +11,7 @@ This is a non extensive list of some of lifetime achievements and activities suc
 A Machine Learning specialist, I'm also passionate about continuous learning, startups, psychology and innovation in general, as well as I'm pursuing a PhD. in Electrical Engineering and Computing, again, at Mackenzie Presbyterian University. My ultimate goal is to change the world via Artificial Intelligence, Internet of Things and other exponential technologies, transforming local solutions into cases of true global impact.
 
 Linkedin:  [br.linkedin.com/in/ahirton](http://br.linkedin.com/in/ahirton)  
-Github:  [github.com/AhirtonLopes](https://github.com/AhirtonLopes)  
+Github:  [github.com/ahirtonlopes](https://github.com/AhirtonLopes)  
 Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)  
 
 ### Contributions Summary
