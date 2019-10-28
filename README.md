@@ -41,11 +41,11 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 Abstract:
 
-> We will explore the benefits of DevOps process using Kubernetes, Docker, and Node.js. Showing how Docker and Node.js can work together, using the power of Kubernetes to release and to scale automatically stateless services. At this talk we will explore the key concepts and components to start working with Kubernetes, real scenarios and the differences between the traditional approach compared to Container based applications. Attendees will learn about the basics of Kubernetes and tips to scale Node.js applications furthermore they will learn the common problems that we face when we decide to change from monoliths to microservices using Docker and JavaScript.
+> In this talk we explore some of the technologies behind of the techniques in the field of Transfer Learning, exemplified by transferring style from one image to another, as well as about GANs, Generative Adversarial Networks, and how they have been used for composing increasingly credible fake images and videos worldwide.
 > 
 > 
 
-_Tags: `kubernetes`, `k8s`, `node.js`, `javascript`_
+_Tags: `transfer learning`, `gans`, `deep fakes`, `deep learning`_
 
 ### 2019-03-12 - Scaling Node.js applications with Kubernetes and Docker (en-us)
 
