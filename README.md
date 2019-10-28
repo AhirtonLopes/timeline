@@ -1,32 +1,66 @@
-# Activities by <a href="https://twitter.com/erickwendel_" target="_blank">Erick Wendel</a>
+# Activities by <a href="https://www.linkedin.com/in/ahirton/" target="_blank"> José Ahirton Lopes</a>
 
 _Search with `⌘/ctrl + f`_
 
-This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent). (in construction)
+This is a non extensive list of some of lifetime achievements and activities such as talks that I've given at meetups and conferences around the world as well as published papers, open classes and courses, blogposts, videos, talkshows, podcasts and more (starting from most recent ones). 
 
-**Erick Wendel** is a Speaker, Software Consultant and community Co-organizer in Brazil. Named by Microsoft as <a href="http://bit.ly/mvp-profile-erickwendel" target="__blank">Most Valuable Professional</a>, and by Google as <a href="https://developers.google.com/experts/people/erick-wendel" target="__blank">Google Developer Expert</a>, a specialist in Node.js and Javascript Applications. He is a Software Independent Architect who helps companies to make better and cheaper applications using Serverless architectures, Container based applications, and Hybrid Cloud solutions. He has experience speaking and teaching at the biggest conferences in Brazil and Americas, working as voluntary Leader of NodeBR, Javascript São Paulo and Nerdzão Communities.
+-- This page is always being updated --
 
-Twitter:  [@erickwendel_](https://twitter.com/erickwendel_)  
-Linkedin:  [br.linkedin.com/in/erickwendel](http://br.linkedin.com/in/erickwendel)  
-Github:  [github.com/erickwendel](https://github.com/erickwendel)  
-Facebook:  [fb.com/page.erickwendel](https://fb.com/page.erickwendel)  
-Website:  [erickwendel.com](http://erickwendel.com/)
+**MsC. José Ahirton Lopes** is currently a Data Scientist, MBA and Undergrad teacher, PhD student, community co-organizer, speaker and published author at São Paulo, Brazil. A <a href="http://tede.mackenzie.br/jspui/handle/tede/2810" target="__blank">master in Electrical Engineering by Mackenzie Presbyterian University</a>, works at Magna Sistemas, allocated at São Paulo's State Department of Education, as well as is a MBA teacher in the Artificial Intelligence & Machine Learning, Data Engineering, Cloud Computing and Cyber Security courses at FIAP, community manager/co-organizer at <a href="https://www.meetup.com/pt-BR/ai-brasil" target="__blank">AI Brasil</a> and volunteer teacher and content advisor at the <a href="https://github.com/SchoolOfAISaoPaulo" target="__blank">School of AI SP</a> initiative. As a speaker, participated in big events such as Campus Party Brasil, ODSC Brazil, Papis.io and many more.
+
+A Machine Learning specialist, I'm also passionate about continuous learning, startups, psychology and innovation in general, as well as I'm pursuing a PhD. in Electrical Engineering and Computing, again, at Mackenzie Presbyterian University. My ultimate goal is to change the world via Artificial Intelligence, Internet of Things and other exponential technologies, transforming local solutions into cases of true global impact.
+
+Linkedin:  [br.linkedin.com/in/ahirton](http://br.linkedin.com/in/ahirton)  
+Github:  [github.com/AhirtonLopes](https://github.com/AhirtonLopes)  
+Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)  
 
 ### Contributions Summary
 
-* **Projects**: 2018/November - 2015/July 
-* **Demonstrations**: 2018/December - 2016/September 
-* **Blog Posts**: 2018/March - 2015/February 
-* **Conference Talks**: 2019/March - 2015/January 
+* **Conference Talks**: 2019/October - 2018/April
+* **Papers and Blog Posts**: 2019/October - 2009/March 
+* **Projects**: 2019/October - 2008/August 
+* **Demonstrations**: 2019/October - 2018/October 
 
-#### Presentations' number: 86
+#### Presentations' number: 50 from 2018/April onwards 
 
 ## Table of Contents
 
-- [Projects (06)](#projects)
-- [Demonstrations (08)](#demonstrations)
-- [Blog Posts (08)](#blog-posts)
-- [Conference Talks (78)](#conference-talks)
+- [Conference Talks (50)](#conference-talks)
+- [Papers and Blogposts (17)](#papers #blogposts)
+- [Demonstrations and Open Classes (00)](#demonstrations #openclasses)
+- [Projects (13)](#projects)
+- [Prizes (00)](#prizes)
+
+## Conference Talks
+
+### 2019-15-10 - Transfer Learning, GANs e Deep Fakes, impactos futuros e presentes (pt-br)
+
+<a href="https://brasil.odsc.com/" target="_blank">ODSC Brasil 2019</a>
+
+<a href="http://bit.ly/erickwendel-k8s-nodejs-jskongress2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-03-12-Scaling_Node.js_applications_with_Kubernetes_and_Docker" target="_blank">photos</a> 
+
+Abstract:
+
+> We will explore the benefits of DevOps process using Kubernetes, Docker, and Node.js. Showing how Docker and Node.js can work together, using the power of Kubernetes to release and to scale automatically stateless services. At this talk we will explore the key concepts and components to start working with Kubernetes, real scenarios and the differences between the traditional approach compared to Container based applications. Attendees will learn about the basics of Kubernetes and tips to scale Node.js applications furthermore they will learn the common problems that we face when we decide to change from monoliths to microservices using Docker and JavaScript.
+> 
+> 
+
+_Tags: `kubernetes`, `k8s`, `node.js`, `javascript`_
+
+### 2019-03-12 - Scaling Node.js applications with Kubernetes and Docker (en-us)
+
+<a href="https://js-kongress.com" target="_blank">JS Kongress 2019 -  (R)evolution of Architectures</a>
+
+<a href="http://bit.ly/erickwendel-k8s-nodejs-jskongress2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-03-12-Scaling_Node.js_applications_with_Kubernetes_and_Docker" target="_blank">photos</a> 
+
+Abstract:
+
+> We will explore the benefits of DevOps process using Kubernetes, Docker, and Node.js. Showing how Docker and Node.js can work together, using the power of Kubernetes to release and to scale automatically stateless services. At this talk we will explore the key concepts and components to start working with Kubernetes, real scenarios and the differences between the traditional approach compared to Container based applications. Attendees will learn about the basics of Kubernetes and tips to scale Node.js applications furthermore they will learn the common problems that we face when we decide to change from monoliths to microservices using Docker and JavaScript.
+> 
+> 
+
+_Tags: `kubernetes`, `k8s`, `node.js`, `javascript`_
+
 
 ## Projects
 
@@ -60,7 +94,7 @@ Abstract:
 > 
 
 
-_Tags: `training`, `online`, `docker`, `kubernetes`, `microsoft`_
+_Tags: `training`, `online`, `docker`, `kubernetes`, `microsoft`
 
 ### <a href="https://marketplace.visualstudio.com/items?itemName=eriickwendel.troll-x-semicolon" target="_blank">2017-09-08 - trollXsemicolon - VSCode Extension (pt-br)</a>
 
