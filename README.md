@@ -37,7 +37,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 <a href="https://brasil.odsc.com/" target="_blank">ODSC Brasil 2019</a>
 
-<a href="http://bit.ly/erickwendel-k8s-nodejs-jskongress2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-03-12-Scaling_Node.js_applications_with_Kubernetes_and_Docker" target="_blank">photos</a> 
+<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-transfer-learning-e-gans-101-182858438" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-15-10-%20Transfer_Learning_GANs_Deep_Fakes" target="_blank">photos</a> 
 
 Abstract:
 
@@ -51,7 +51,7 @@ _Tags: `transfer learning`, `gans`, `deep fakes`, `deep learning`_
 
 <a href="https://js-kongress.com" target="_blank">JS Kongress 2019 -  (R)evolution of Architectures</a>
 
-<a href="http://bit.ly/erickwendel-k8s-nodejs-jskongress2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-03-12-Scaling_Node.js_applications_with_Kubernetes_and_Docker" target="_blank">photos</a> 
+<a href="http://bit.ly/erickwendel-k8s-nodejs-jskongress2019" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-15-10-%20Transfer_Learning_GANs_Deep_Fakes" target="_blank">photos</a> 
 
 Abstract:
 
