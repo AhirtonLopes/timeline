@@ -75,7 +75,7 @@ Abstract:
 
 _Tags: `machine learning`, `data science`, `data science and AI education`, `transfer learning`, `GANs`, `open classes`_
 
-### 2019-04-09 - Meetup AI Brasil SP #24 - (pt-br)
+### 2019-04-09 - Meetup AI Brasil em SP #24 - O que há de novo em IA e chatbots (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/ai-brasil/events/264721609/" target="_blank">Meetup AI Brasil em São Paulo #24 | FIAP - IA e Chatbots</a>
 
@@ -89,7 +89,7 @@ Abstract:
 
 _Tags: `machine learning`, `artificial intelligence`, `AI ethics`_
 
-### 2019-16-09 - Ciência de Dados na Transformação Digital(pt-br)
+### 2019-16-09 - Ciência de Dados na Transformação Digital (pt-br)
 
 <a href="https://www.eventbrite.com.br/e/ciencia-de-dados-na-transformacao-digital-tickets-70061839849?aff=SITE" target="_blank">Ciência de Dados na Transformação Digital</a>
 
@@ -103,7 +103,7 @@ Abstract:
 
 _Tags: `machine learning`, `data science`, `data science education`, `digital transformation`_
 
-### 2019-04-09 - Ética em IA - Casos e Boas Práticas (pt-br)
+### 2019-04-09 - Meetup AI Brasil em SP #23 - Ética em IA - Casos e Boas Práticas (pt-br)
 
 <a href="" target="_blank">Meetup AI Brasil em São Paulo #23 | FC Nuvem - Ética e Confidencialidade em IA</a>
 
