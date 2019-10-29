@@ -29,7 +29,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 - [Papers and Blogposts (17)](#papers #blogposts)
 - [Demonstrations and Open Classes (00)](#demonstrations #openclasses)
 - [Projects (13)](#projects)
-- [Prizes (00)](#prizes)
+- [Prizes, scholarships and academic achievements (00)](#prizes)
 
 ## Conference Talks
 
@@ -117,6 +117,66 @@ Abstract:
 
 _Tags: `machine learning`, `dropout risk prediction`, `supervised classification`, `educational data mining`_
 
+## Papers and Blogposts
+
+### <a href="https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e" target="_blank">2018-03-20 - Patterns — Generic Repository with Typescript and Node.js (en-us)</a>
+
+
+Portal:
+
+> <a href="https://hackernoon.com/" target="_blank">Hackernoon</a>
+
+
+Abstract:
+
+> If you work with Node.js/Javascript and you have many replicated codes for different data models or create CRUDs (Create, Read, Update and Delete) at all times, then this post is for you!
+> 
+> 
+
+
+_Tags: `typescript`, `javascript`, `node.js`, `design patterns`_
+
+### <a href="https://medium.com/horizon-four/code-stantards-padronizando-sua-equipe-de-desenvolvimento-e1e47e3edf11" target="_blank">2017-11-04 - Code Standards — Padronizando sua equipe de desenvolvimento Javascript (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://medium.com/horizon-four" target="_blank">Horizon Four</a>
+
+
+Abstract:
+
+> Tem problemas em implantar style guides (padrões de código) em Javascript e fazer com que este processo seja ágil e simples ? Então este tutorial é para você!
+> 
+> 
+
+
+## Demonstrations and Open Classes
+
+### <a href="https://www.facebook.com/page.erickwendel/videos/2248556708749766/" target="_blank">2018-12-14 - Demo - VSCode extensions: Cognitive Services + Siri + VSCode + Node.js - Criando uma extensão de tradução de texto no editor (pt-br)</a>
+
+
+Abstract:
+
+> Amanha (15/12) acontece o Developers Sergipe e estamos mais que animados! Preparei uma demonstração integrando o #vscode, o serviço de tradução do #azure e a #siri, para a partir da seleção de um texto, traduzir automaticamente e falar o resultado em nosso idioma, é claro que é uma demo bem simples, mas mostra o poder e as ideias que vem em mente para brincar 😀 
+> 
+> 
+
+
+_Tags: `node.js`, `microsoft`, `siri`, `vscode`_
+
+### <a href="https://www.facebook.com/page.erickwendel/videos/1202597676537643/" target="_blank">2018-01-09 - Original Potato - Jogando Batata Quente em tempo real! (pt-br)</a>
+
+
+Abstract:
+
+> Está no ar, mais um aplicativo da ZOEIRA! Sabe aquela galera que sai com você e fica o tempo todo no celular? Que tal interagir com a galera, revivendo os tempos de batata quente     mas de uma forma mais digital ?
+> 
+> 
+
+
+_Tags: `node.js`, `websocket`, `typescript`_
+
 ## Projects
 
 ### <a href="https://treinamento.nodebr.org" target="_blank">2018-11-27 - #CursoNodeBR - EW.IT + NodeBR (pt-br)</a>
@@ -150,67 +210,6 @@ Abstract:
 
 
 _Tags: `training`, `online`, `docker`, `kubernetes`, `microsoft`
-
-
-## Demonstrations
-
-### <a href="https://www.facebook.com/page.erickwendel/videos/2248556708749766/" target="_blank">2018-12-14 - Demo - VSCode extensions: Cognitive Services + Siri + VSCode + Node.js - Criando uma extensão de tradução de texto no editor (pt-br)</a>
-
-
-Abstract:
-
-> Amanha (15/12) acontece o Developers Sergipe e estamos mais que animados! Preparei uma demonstração integrando o #vscode, o serviço de tradução do #azure e a #siri, para a partir da seleção de um texto, traduzir automaticamente e falar o resultado em nosso idioma, é claro que é uma demo bem simples, mas mostra o poder e as ideias que vem em mente para brincar 😀 
-> 
-> 
-
-
-_Tags: `node.js`, `microsoft`, `siri`, `vscode`_
-
-### <a href="https://www.facebook.com/page.erickwendel/videos/1202597676537643/" target="_blank">2018-01-09 - Original Potato - Jogando Batata Quente em tempo real! (pt-br)</a>
-
-
-Abstract:
-
-> Está no ar, mais um aplicativo da ZOEIRA! Sabe aquela galera que sai com você e fica o tempo todo no celular? Que tal interagir com a galera, revivendo os tempos de batata quente     mas de uma forma mais digital ?
-> 
-> 
-
-
-_Tags: `node.js`, `websocket`, `typescript`_
-
-
-## Papers and Blogposts
-
-### <a href="https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e" target="_blank">2018-03-20 - Patterns — Generic Repository with Typescript and Node.js (en-us)</a>
-
-
-Portal:
-
-> <a href="https://hackernoon.com/" target="_blank">Hackernoon</a>
-
-
-Abstract:
-
-> If you work with Node.js/Javascript and you have many replicated codes for different data models or create CRUDs (Create, Read, Update and Delete) at all times, then this post is for you!
-> 
-> 
-
-
-_Tags: `typescript`, `javascript`, `node.js`, `design patterns`_
-
-### <a href="https://medium.com/horizon-four/code-stantards-padronizando-sua-equipe-de-desenvolvimento-e1e47e3edf11" target="_blank">2017-11-04 - Code Standards — Padronizando sua equipe de desenvolvimento Javascript (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://medium.com/horizon-four" target="_blank">Horizon Four</a>
-
-
-Abstract:
-
-> Tem problemas em implantar style guides (padrões de código) em Javascript e fazer com que este processo seja ágil e simples ? Então este tutorial é para você!
-> 
-> 
 
 ## Prizes, scholarships and academic achievements
 
