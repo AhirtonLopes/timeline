@@ -37,7 +37,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 <a href="https://brasil.odsc.com/" target="_blank">ODSC Brasil 2019</a>
 
-<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-transfer-learning-e-gans-101-182858438" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-15-10-%20Transfer_Learning_GANs_Deep_Fakes" target="_blank">photos</a> |  <a> href="https://github.com/AhirtonLopes/ODSC2019_Brasil"_blank">demos</a> 
+<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-transfer-learning-e-gans-101-182858438" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-15-10-%20Transfer_Learning_GANs_Deep_Fakes" target="_blank">photos</a> | <a href="https://github.com/AhirtonLopes/ODSC2019_Brasil" target="_blank">slides</a> 
 
 Abstract:
 
