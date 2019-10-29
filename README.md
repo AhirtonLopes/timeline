@@ -75,47 +75,47 @@ Abstract:
 
 _Tags: `machine learning`, `data science`, `data science and AI education`, `transfer learning`, `GANs`, `open classes`_
 
-### 2019-16-09 - Ciência de Dados na Transformação Digital(pt-br)
+### 2019-04-09 - Meetup AI Brasil SP #24 - (pt-br)
 
-<a href="https://www.eventbrite.com.br/e/ciencia-de-dados-na-transformacao-digital-tickets-70061839849?aff=SITE" target="_blank">Ciência de Dados na Transformação Digital</a>
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/264721609/" target="_blank">Meetup AI Brasil em São Paulo #24 | FIAP - IA e Chatbots</a>
 
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
-
-Abstract:
-
-> .
-> 
-> 
-
-_Tags: `machine learning`, `data science`, `data science education`, `digitak transformation`_
-
-### 2019-04-09 - Ética em IA - Casos e Boas Práticas (pt-br)
-
-<a href="https://www.meetup.com/pt-BR/ai-brasil/events/264494530/" target="_blank">Meetup AI Brasil em São Paulo #23 | FC Nuvem - Ética e Confidencialidade em IA</a>
-
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
+<a href="" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-04-17-Meetup_AI_Brasil_24" target="_blank">photos</a> 
 
 Abstract:
 
-> .
+> Gave the talk "What's new in AI and Chatbots?" about tendencies and technologies being used in the latest chatbot best cases as well as I show some tips on how to develop chatbots aiming for good user experience.
 > 
 > 
 
 _Tags: `machine learning`, `artificial intelligence`, `AI ethics`_
 
-### 2019-27-08 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
+### 2019-16-09 - Ciência de Dados na Transformação Digital(pt-br)
 
-<a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
+<a href="https://www.eventbrite.com.br/e/ciencia-de-dados-na-transformacao-digital-tickets-70061839849?aff=SITE" target="_blank">Ciência de Dados na Transformação Digital</a>
 
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
+<a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-09-16-Ciencia_de_Dados_Transformacao_Digital" target="_blank">photo</a> 
 
 Abstract:
 
-> High dropout rates are a serious and quite common problem in many countries around the globe, both in traditional teaching and learning environments, in both private and public education. Higher rates tend to have a negative impact on all profiles involved: students, institutions and the general public; noting that, despite the student's own loss of educational gain that evades, there is also monetary loss to the system in question, social stigma and feelings of inadequacy that may be associated with such dropout, and loss of cultural, social and interpersonal spheres arising from educational processes. Therefore, early detection systems regarding school dropout have gained more prominence, especially regarding the possibility of being a framework for the elaboration of new public policies, while also helping to better understand the probable causes for this dropout.
+> Apresentação junto ao Sergio Gama (IBM) sobre Ciência de Dados para Transformação Digital.
 > 
 > 
 
-_Tags: `machine learning`, `dropout risk prediction`, `supervised classification`, `educational data mining`_
+_Tags: `machine learning`, `data science`, `data science education`, `digital transformation`_
+
+### 2019-04-09 - Ética em IA - Casos e Boas Práticas (pt-br)
+
+<a href="" target="_blank">Meetup AI Brasil em São Paulo #23 | FC Nuvem - Ética e Confidencialidade em IA</a>
+
+<a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-04-17-Meetup_AI_Brasil_23" target="_blank">photos</a> 
+
+Abstract:
+
+> Gave the talk "Ethics in AI - Cases and good practices" about some of the recent cases envolving ethics and AI, a debate that has been growing worldwide. What are the best practices ragarding data usage in AI projects? What countries are using AI as a political leverage? We still have a shot at using AI "the right way"?
+> 
+> 
+
+_Tags: `machine learning`, `artificial intelligence`, `AI ethics`_
 
 ## Papers and Blogposts
 
