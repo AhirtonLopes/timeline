@@ -27,7 +27,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 ## Table of Contents
 
-- [Conference and Meetup Talks (06)](#conference-and-meetup-talks)
+- [Conference and Meetup Talks (10)](#conference-and-meetup-talks)
 - [Papers and Blogposts (00)](#papers-and-blogposts)
 - [Videos (00)](#videos)
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
