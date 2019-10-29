@@ -120,7 +120,7 @@ Abstract:
 
 _Tags: `machine learning`, `artificial intelligence`, `AI ethics`_
 
-### 2019-24-09 - Aula School of AI SP #18 - Recurrent Neural Networks (pt-br)
+### 2019-27-08 - Aula School of AI SP #18 - Recurrent Neural Networks (pt-br)
 
 <a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #18</a>
 
@@ -133,6 +133,48 @@ Abstract:
 > 
 
 _Tags: `machine learning`, `data science`, `data science and AI education`, `transfer learning`, `RNNs`, `open classes`_
+
+### 2019-24-08 - Nerdzão Day - Painel sobre Inteligência Artificial (pt-br)
+
+<a href="https://nerdzao.netlify.com/day/" target="_blank">Nerdzão Day 2019</a>
+
+<a href="" target="_blank">photo</a> 
+
+Abstract:
+
+> Participated in an Artificial Intelligence panel with Alexandre Nunes and Antonio Neto, discussing job opportunities, projects and the future of AI as well as machine learning technologies.
+>
+> 
+
+_Tags: `machine learning`, `data science`, `panel`, `Nerdzão`_
+
+### 2019-20-08 - Meetup AI Brasil em SP #22 - Carreira em IA II (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/263970421/" target="_blank">Meetup AI Brasil em SP #22 - Carreira em IA II</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">video</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+> Participated with the talk "Who's the so called Data Scientist? A day in the life" where, from my personal standpoint, I talk about carreer progression, AI education, book references, how to get an interview and first and foremost what kind of habilities are required from a true Data Scientist nowadays.
+>
+> 
+
+_Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
+
+### 2019-14-08 - Meetup AI Brasil em SP #21 - Avanços em IA (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/263751065/" target="_blank">Meetup AI Brasil em SP #21 - Avanços em IA</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">video</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+>.
+>
+> 
+
+_Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
 
 ## Papers and Blogposts
 
