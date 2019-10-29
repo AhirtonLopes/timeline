@@ -47,7 +47,7 @@ Abstract:
 
 _Tags: `transfer learning`, `gans`, `deep fakes`, `deep learning`_
 
-### 2019-03-10 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
+### 2019-07-10 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
 
 <a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
 
@@ -75,7 +75,7 @@ Abstract:
 
 _Tags: `machine learning`, `data science`, `data science and AI education`, `transfer learning`, `GANs`, `open classes`_
 
-### 2019-04-09 - Meetup AI Brasil em SP #24 - O que há de novo em IA e chatbots (pt-br)
+### 2019-17-09 - Meetup AI Brasil em SP #24 - O que há de novo em IA e chatbots (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/ai-brasil/events/264721609/" target="_blank">Meetup AI Brasil em São Paulo #24 | FIAP - IA e Chatbots</a>
 
