@@ -6,7 +6,7 @@ This is a non extensive list of some of lifetime achievements and activities suc
 
 -- This page is always being updated --
 
-**MsC. José Ahirton Lopes** is currently a Data Scientist, MBA and undergrad teacher, PhD student, community co-founder and manager, speaker and published author at São Paulo, Brazil. A <a href="http://tede.mackenzie.br/jspui/handle/tede/2810" target="__blank">master in Electrical Engineering by Mackenzie Presbyterian University</a>, works at Magna Sistemas, allocated at São Paulo's State Department of Education, as well as is a MBA teacher in the <a href="https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/" target="__blank">Artificial Intelligence & Machine Learning</a>, <a href="https://www.fiap.com.br/mba/mba-em-engenharia-de-dados/" target="__blank">Data Engineering</a>, <a href="https://www.fiap.com.br/mba/mba-em-cloud-computing/" target="__blank">Cloud Computing</a> and <a href="https://www.fiap.com.br/mba/mba-em-cyber-security-forensics-ethical-hacking-e-devsecops/" target="__blank">Cyber Security</a> courses at FIAP, community co-founder and manager at <a href="https://www.meetup.com/pt-BR/ai-brasil" target="__blank">AI Brasil</a>, and volunteer teacher and content advisor at the <a href="https://github.com/SchoolOfAISaoPaulo" target="__blank">School of AI SP</a> initiative. As a speaker, took part in the biggest events regarding Data Science and Artificial Intelligence in Brazil such as Campus Party, ODSC Brasil, Papis.io, The Developers Conference, GDG DataFest, AI Fest and many more.
+**MsC. José Ahirton Lopes** is currently a Data Scientist, MBA and undergrad teacher, PhD student, AI researcher, community co-founder and manager, speaker and published author at São Paulo, Brazil. A <a href="http://tede.mackenzie.br/jspui/handle/tede/2810" target="__blank">master in Electrical Engineering by Mackenzie Presbyterian University</a>, works at Magna Sistemas, allocated at São Paulo's State Department of Education, as well as is a MBA teacher in the <a href="https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/" target="__blank">Artificial Intelligence & Machine Learning</a>, <a href="https://www.fiap.com.br/mba/mba-em-engenharia-de-dados/" target="__blank">Data Engineering</a>, <a href="https://www.fiap.com.br/mba/mba-em-cloud-computing/" target="__blank">Cloud Computing</a> and <a href="https://www.fiap.com.br/mba/mba-em-cyber-security-forensics-ethical-hacking-e-devsecops/" target="__blank">Cyber Security</a> courses at FIAP, community co-founder and manager at <a href="https://www.meetup.com/pt-BR/ai-brasil" target="__blank">AI Brasil</a>, and volunteer teacher and content advisor at the <a href="https://github.com/SchoolOfAISaoPaulo" target="__blank">School of AI SP</a> initiative. As a speaker, took part in the biggest events regarding Data Science and Artificial Intelligence in Brazil such as Campus Party, ODSC Brasil, Papis.io, The Developers Conference, GDG DataFest, AI Fest and many more.
 
 Besides being a Data Scientist and a Machine Learning specialist, I'm also passionate about continuous learning, startups, entrepreneurship, psychology and innovation in general, as well as I'm pursuing a PhD. in Electrical Engineering and Computing, again at Mackenzie Presbyterian University, regarding the use of machine learning algorithms to predict brazilian high school students dropout risk and, ultimately, promote new public policies aiming this matter. My goal is to change the world via Artificial Intelligence, Internet of Things (IOT) and other exponential technologies, transforming local solutions into cases of true global impact.
 
@@ -119,6 +119,20 @@ Abstract:
 > 
 
 _Tags: `machine learning`, `artificial intelligence`, `AI ethics`_
+
+### 2019-24-09 - Aula School of AI SP #18 - Recurrent Neural Networks (pt-br)
+
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #18</a>
+
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/18_aula_2019" target="_blank">slides and demos</a> |  <a href="https://www.youtube.com/watch?v=F3v7PDjgnw4" target="_blank">video</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-24-09-%20School_of_AI_20" target="_blank">photo</a> 
+
+Abstract:
+
+> 18th School of AI SP class. Intro to Recurrent Neural Networks (RNNs).
+>
+> 
+
+_Tags: `machine learning`, `data science`, `data science and AI education`, `transfer learning`, `RNNs`, `open classes`_
 
 ## Papers and Blogposts
 
