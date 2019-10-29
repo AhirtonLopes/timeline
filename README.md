@@ -2,11 +2,11 @@
 
 _Search with `⌘/ctrl + f`_
 
-This is a non extensive list of some of lifetime achievements and activities such as talks that I've given at meetups and conferences around the world as well as published papers, open classes and courses, blogposts, videos, talkshows, podcasts and more (starting from most recent ones). 
+This is a non extensive list of some of lifetime achievements and activities such as talks that I've given at meetups and conferences as well as published papers and blogposts, videos and participations in talkshows, demonstrations, open classes and courses, podcasts and more (starting from most recent ones). 
 
 -- This page is always being updated --
 
-**MsC. José Ahirton Lopes** is currently a Data Scientist, MBA and Undergrad teacher, PhD student, community co-organizer, speaker and published author at São Paulo, Brazil. A <a href="http://tede.mackenzie.br/jspui/handle/tede/2810" target="__blank">master in Electrical Engineering by Mackenzie Presbyterian University</a>, works at Magna Sistemas, allocated at São Paulo's State Department of Education, as well as is a MBA teacher in the Artificial Intelligence & Machine Learning, Data Engineering, Cloud Computing and Cyber Security courses at FIAP, community manager/co-organizer at <a href="https://www.meetup.com/pt-BR/ai-brasil" target="__blank">AI Brasil</a> and volunteer teacher and content advisor at the <a href="https://github.com/SchoolOfAISaoPaulo" target="__blank">School of AI SP</a> initiative. As a speaker, participated in big events such as Campus Party Brasil, ODSC Brazil, Papis.io and many more.
+**MsC. José Ahirton Lopes** is currently a Data Scientist, MBA and Undergrad teacher, PhD student, community co-organizer, speaker and published author at São Paulo, Brazil. A <a href="http://tede.mackenzie.br/jspui/handle/tede/2810" target="__blank">master in Electrical Engineering by Mackenzie Presbyterian University</a>, works at Magna Sistemas, allocated at São Paulo's State Department of Education, as well as is a MBA teacher in the <a href="https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/" target="__blank">Artificial Intelligence & Machine Learning</a>, <a href="https://www.fiap.com.br/mba/mba-em-engenharia-de-dados/" target="__blank">Data Engineering</a>, <a href="https://www.fiap.com.br/mba/mba-em-cloud-computing/" target="__blank">Cloud Computing</a> and <a href="https://www.fiap.com.br/mba/mba-em-cyber-security-forensics-ethical-hacking-e-devsecops/" target="__blank">Cyber Security</a> courses at FIAP, co-founder/community manager at <a href="https://www.meetup.com/pt-BR/ai-brasil" target="__blank">AI Brasil</a> and volunteer teacher and content advisor at the <a href="https://github.com/SchoolOfAISaoPaulo" target="__blank">School of AI SP</a> initiative. As a speaker, participated in big events such as Campus Party Brasil, ODSC Brasil, Papis.io and many more.
 
 A Machine Learning specialist, I'm also passionate about continuous learning, startups, psychology and innovation in general, as well as I'm pursuing a PhD. in Electrical Engineering and Computing, again, at Mackenzie Presbyterian University. My ultimate goal is to change the world via Artificial Intelligence, Internet of Things and other exponential technologies, transforming local solutions into cases of true global impact.
 
@@ -16,10 +16,12 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 ### Contributions Summary
 
-* **Conference Talks**: 2019/October - 2018/April
-* **Papers and Blog Posts**: 2019/October - 2009/March 
+* **Conference and Meetup Talks**: 2019/October - 2018/April
+* **Papers and Blogposts**: 2019/October - 2009/March 
+* **Videos**: 2019/October - 2018/April
+* **Demonstrations and Open Classes**: 2019/October - 2018/January
 * **Projects**: 2019/October - 2008/August 
-* **Demonstrations**: 2019/October - 2018/October 
+* **Prizes and scholarships**: 2019/October - 2008/August 
 
 #### Presentations' number: 50 from 2018/April onwards 
 
@@ -27,6 +29,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 - [Conference and Meetup Talks (06)](#conference-and-meetup-talks)
 - [Papers and Blogposts (00)](#papers-and-blogposts)
+- [Videos (00)](#videos)
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
 - [Projects (00)](#projects)
 - [Prizes and scholarships (00)](#prizes-and-scholarships)
