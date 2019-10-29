@@ -26,10 +26,10 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 ## Table of Contents
 
 - [Conference Talks (50)](#conference-talks)
-- [Papers and Blogposts (17)](#papers #blogposts)
-- [Demonstrations and Open Classes (00)](#demonstrations #openclasses)
+- [Papers and Blogposts (17)](#papers-and-blogposts)
+- [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
 - [Projects (13)](#projects)
-- [Prizes, scholarships and academic achievements (00)](#prizes)
+- [Prizes and scholarships (00)](#prizes-and-scholarships)
 
 ## Conference Talks
 
