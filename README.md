@@ -2,7 +2,7 @@
 
 _Search with `⌘/ctrl + f`_
 
-This is a non extensive list of some of lifetime achievements and activities such as talks that I've given at meetups and conferences as well as published papers and blogposts, videos and participations in talkshows, demonstrations, open classes and courses, podcasts and more (starting from most recent ones). 
+This is a non extensive list of some of lifetime achievements and activities such as talks that I've given at meetups and conferences as well as published papers and blogposts, videos and participations in talkshows, podcasts, demonstrations, open classes, courses and more (starting from most recent ones). 
 
 -- This page is always being updated --
 
