@@ -34,7 +34,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 - [Projects (00)](#projects)
 - [Prizes and scholarships (00)](#prizes-and-scholarships)
 
-## Conference Talks
+## Conference and Meetup Talks
 
 ### 2019-15-10 - Transfer Learning, GANs e Deep Fakes, impactos futuros e presentes (pt-br)
 
