@@ -2,13 +2,13 @@
 
 _Search with `⌘/ctrl + f`_
 
-This is a non extensive list of some of lifetime achievements and activities such as talks that I've given at meetups and conferences around the world as well as published papers, open classes and courses, blogposts, videos, talkshows, podcasts and more (starting from most recent ones). 
+This is a non extensive list of some of lifetime achievements and activities such as talks that I've given at meetups and conferences as well as published papers and blogposts, videos and participations in talkshows, podcasts, demonstrations, open classes, courses and more (starting from most recent ones). 
 
 -- This page is always being updated --
 
-**MsC. José Ahirton Lopes** is currently a Data Scientist, MBA and Undergrad teacher, PhD student, community co-organizer, speaker and published author at São Paulo, Brazil. A <a href="http://tede.mackenzie.br/jspui/handle/tede/2810" target="__blank">master in Electrical Engineering by Mackenzie Presbyterian University</a>, works at Magna Sistemas, allocated at São Paulo's State Department of Education, as well as is a MBA teacher in the Artificial Intelligence & Machine Learning, Data Engineering, Cloud Computing and Cyber Security courses at FIAP, community manager/co-organizer at <a href="https://www.meetup.com/pt-BR/ai-brasil" target="__blank">AI Brasil</a> and volunteer teacher and content advisor at the <a href="https://github.com/SchoolOfAISaoPaulo" target="__blank">School of AI SP</a> initiative. As a speaker, participated in big events such as Campus Party Brasil, ODSC Brazil, Papis.io and many more.
+**MsC. José Ahirton Lopes** is currently a Data Scientist, MBA and undergrad teacher, PhD student, AI researcher, community co-founder and manager, speaker and published author at São Paulo, Brazil. A <a href="http://tede.mackenzie.br/jspui/handle/tede/2810" target="__blank">master in Electrical Engineering by Mackenzie Presbyterian University</a>, works at Magna Sistemas, allocated at São Paulo's State Department of Education, as well as is a MBA teacher in the <a href="https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/" target="__blank">Artificial Intelligence & Machine Learning</a>, <a href="https://www.fiap.com.br/mba/mba-em-engenharia-de-dados/" target="__blank">Data Engineering</a>, <a href="https://www.fiap.com.br/mba/mba-em-cloud-computing/" target="__blank">Cloud Computing</a> and <a href="https://www.fiap.com.br/mba/mba-em-cyber-security-forensics-ethical-hacking-e-devsecops/" target="__blank">Cyber Security</a> courses at FIAP, community co-founder and manager at <a href="https://www.meetup.com/pt-BR/ai-brasil" target="__blank">AI Brasil</a>, and volunteer teacher and content advisor at the <a href="https://github.com/SchoolOfAISaoPaulo" target="__blank">School of AI SP</a> initiative. As a speaker, took part in the biggest events regarding Data Science and Artificial Intelligence in Brazil such as Campus Party, ODSC Brasil, Papis.io, The Developers Conference, GDG DataFest, AI Fest and many more.
 
-A Machine Learning specialist, I'm also passionate about continuous learning, startups, psychology and innovation in general, as well as I'm pursuing a PhD. in Electrical Engineering and Computing, again, at Mackenzie Presbyterian University. My ultimate goal is to change the world via Artificial Intelligence, Internet of Things and other exponential technologies, transforming local solutions into cases of true global impact.
+Besides being a Data Scientist and a Machine Learning specialist, I'm also passionate about continuous learning, startups, entrepreneurship, psychology and innovation in general, as well as I'm pursuing a PhD. in Electrical Engineering and Computing, again at Mackenzie Presbyterian University, regarding the use of machine learning algorithms to predict brazilian high school students dropout risk and, ultimately, promote new public policies aiming this matter. My goal is to change the world via Artificial Intelligence, Internet of Things (IOT) and other exponential technologies, transforming local solutions into cases of true global impact.
 
 Linkedin:  [br.linkedin.com/in/ahirton](http://br.linkedin.com/in/ahirton)  
 Github:  [github.com/ahirtonlopes](https://github.com/AhirtonLopes)  
@@ -16,22 +16,25 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 ### Contributions Summary
 
-* **Conference Talks**: 2019/October - 2018/April
-* **Papers and Blog Posts**: 2019/October - 2009/March 
+* **Conference and Meetup Talks**: 2019/October - 2018/April
+* **Papers and Blogposts**: 2019/October - 2009/March 
+* **Videos**: 2019/October - 2018/April
+* **Demonstrations and Open Classes**: 2019/October - 2018/January
 * **Projects**: 2019/October - 2008/August 
-* **Demonstrations**: 2019/October - 2018/October 
+* **Prizes and scholarships**: 2019/October - 2008/August 
 
 #### Presentations' number: 50 from 2018/April onwards 
 
 ## Table of Contents
 
-- [Conference Talks (50)](#conference-talks)
+- [Conference and Meetup Talks (10)](#conference-and-meetup-talks)
 - [Papers and Blogposts (00)](#papers-and-blogposts)
+- [Videos (00)](#videos)
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
 - [Projects (00)](#projects)
 - [Prizes and scholarships (00)](#prizes-and-scholarships)
 
-## Conference Talks
+## Conference and Meetup Talks
 
 ### 2019-15-10 - Transfer Learning, GANs e Deep Fakes, impactos futuros e presentes (pt-br)
 
@@ -47,7 +50,7 @@ Abstract:
 
 _Tags: `transfer learning`, `gans`, `deep fakes`, `deep learning`_
 
-### 2019-03-10 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
+### 2019-07-10 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
 
 <a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
 
@@ -75,47 +78,103 @@ Abstract:
 
 _Tags: `machine learning`, `data science`, `data science and AI education`, `transfer learning`, `GANs`, `open classes`_
 
-### 2019-16-09 - Ciência de Dados na Transformação Digital(pt-br)
+### 2019-17-09 - Meetup AI Brasil em SP #24 - O que há de novo em IA e chatbots (pt-br)
 
-<a href="https://www.eventbrite.com.br/e/ciencia-de-dados-na-transformacao-digital-tickets-70061839849?aff=SITE" target="_blank">Ciência de Dados na Transformação Digital</a>
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/264721609/" target="_blank">Meetup AI Brasil em São Paulo #24 | FIAP - IA e Chatbots</a>
 
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
-
-Abstract:
-
-> .
-> 
-> 
-
-_Tags: `machine learning`, `data science`, `data science education`, `digitak transformation`_
-
-### 2019-04-09 - Ética em IA - Casos e Boas Práticas (pt-br)
-
-<a href="https://www.meetup.com/pt-BR/ai-brasil/events/264494530/" target="_blank">Meetup AI Brasil em São Paulo #23 | FC Nuvem - Ética e Confidencialidade em IA</a>
-
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
+<a href="" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-04-17-Meetup_AI_Brasil_24" target="_blank">photos</a> 
 
 Abstract:
 
-> .
+> Gave the talk "What's new in AI and Chatbots?" about tendencies and technologies being used in the latest chatbot best cases as well as I show some tips on how to develop chatbots aiming for good user experience.
 > 
 > 
 
 _Tags: `machine learning`, `artificial intelligence`, `AI ethics`_
 
-### 2019-27-08 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
+### 2019-16-09 - Ciência de Dados na Transformação Digital (pt-br)
 
-<a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
+<a href="https://www.eventbrite.com.br/e/ciencia-de-dados-na-transformacao-digital-tickets-70061839849?aff=SITE" target="_blank">Ciência de Dados na Transformação Digital</a>
 
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
+<a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-09-16-Ciencia_de_Dados_Transformacao_Digital" target="_blank">photo</a> 
 
 Abstract:
 
-> High dropout rates are a serious and quite common problem in many countries around the globe, both in traditional teaching and learning environments, in both private and public education. Higher rates tend to have a negative impact on all profiles involved: students, institutions and the general public; noting that, despite the student's own loss of educational gain that evades, there is also monetary loss to the system in question, social stigma and feelings of inadequacy that may be associated with such dropout, and loss of cultural, social and interpersonal spheres arising from educational processes. Therefore, early detection systems regarding school dropout have gained more prominence, especially regarding the possibility of being a framework for the elaboration of new public policies, while also helping to better understand the probable causes for this dropout.
+> Apresentação junto ao Sergio Gama (IBM) sobre Ciência de Dados para Transformação Digital.
 > 
 > 
 
-_Tags: `machine learning`, `dropout risk prediction`, `supervised classification`, `educational data mining`_
+_Tags: `machine learning`, `data science`, `data science education`, `digital transformation`_
+
+### 2019-04-09 - Meetup AI Brasil em SP #23 - Ética em IA - Casos e Boas Práticas (pt-br)
+
+<a href="" target="_blank">Meetup AI Brasil em São Paulo #23 | FC Nuvem - Ética e Confidencialidade em IA</a>
+
+<a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-04-17-Meetup_AI_Brasil_23" target="_blank">photos</a> 
+
+Abstract:
+
+> Gave the talk "Ethics in AI - Cases and good practices" about some of the recent cases envolving ethics and AI, a debate that has been growing worldwide. What are the best practices ragarding data usage in AI projects? What countries are using AI as a political leverage? We still have a shot at using AI "the right way"?
+> 
+> 
+
+_Tags: `machine learning`, `artificial intelligence`, `AI ethics`_
+
+### 2019-27-08 - Aula School of AI SP #18 - Recurrent Neural Networks (pt-br)
+
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #18</a>
+
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/18_aula_2019" target="_blank">slides and demos</a> |  <a href="https://www.youtube.com/watch?v=F3v7PDjgnw4" target="_blank">video</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-24-09-%20School_of_AI_20" target="_blank">photo</a> 
+
+Abstract:
+
+> 18th School of AI SP class. Intro to Recurrent Neural Networks (RNNs).
+>
+> 
+
+_Tags: `machine learning`, `data science`, `data science and AI education`, `transfer learning`, `RNNs`, `open classes`_
+
+### 2019-24-08 - Nerdzão Day - Painel sobre Inteligência Artificial (pt-br)
+
+<a href="https://nerdzao.netlify.com/day/" target="_blank">Nerdzão Day 2019</a>
+
+<a href="" target="_blank">photo</a> 
+
+Abstract:
+
+> Participated in an Artificial Intelligence panel with Alexandre Nunes and Antonio Neto, discussing job opportunities, projects and the future of AI as well as machine learning technologies.
+>
+> 
+
+_Tags: `machine learning`, `data science`, `panel`, `Nerdzão`_
+
+### 2019-20-08 - Meetup AI Brasil em SP #22 - Carreira em IA II (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/263970421/" target="_blank">Meetup AI Brasil em SP #22 - Carreira em IA II</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">video</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+> Participated with the talk "Who's the so called Data Scientist? A day in the life" where, from my personal standpoint, I talk about carreer progression, AI education, book references, how to get an interview and first and foremost what kind of habilities are required from a true Data Scientist nowadays.
+>
+> 
+
+_Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
+
+### 2019-14-08 - Meetup AI Brasil em SP #21 - Avanços em IA (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/263751065/" target="_blank">Meetup AI Brasil em SP #21 - Avanços em IA</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">video</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+>.
+>
+> 
+
+_Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
 
 ## Papers and Blogposts
 
