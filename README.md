@@ -36,7 +36,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 ## Conference and Meetup Talks
 
-### 2019-15-10 - Transfer Learning, GANs e Deep Fakes, impactos futuros e presentes (pt-br)
+### 2019-15-10 - ODSC Brasil 2019 - Transfer Learning, GANs e Deep Fakes, impactos futuros e presentes (pt-br)
 
 <a href="https://brasil.odsc.com/" target="_blank">ODSC Brasil 2019</a>
 
@@ -50,7 +50,7 @@ Abstract:
 
 _Tags: `transfer learning`, `gans`, `deep fakes`, `deep learning`_
 
-### 2019-07-10 - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
+### 2019-07-10 - II WPPGEEC - Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)
 
 <a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
 
@@ -176,6 +176,132 @@ Abstract:
 
 _Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
 
+### 2019-18-07 - The Developers Conference SP 2019 - Em busca do Estado da Arte em Inteligência Artificial - Quais as novas possibilidades? (pt-br)
+
+<a href="https://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-inteligencia-artificial" target="_blank">The Developers Conference SP 2019 - Trilha Inteligência Artificial</a>
+
+<a href="https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019SP/intelartif/TGP-2176_2019-07-18T080906_TDC%20-%20Ahirton%20Lopes%20-%20Em%20busca%20do%20Estado%20da%20Arte%20em%20IA.pdf" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+
+Abstract:
+
+> Artificial intelligence (AI) is a multidisciplinary field of science whose goal is to create intelligent machines; more specifically, AI is a force multiplier in technological progress in view of our increasingly digital and data-driven world. The truth is that everything around us today, from culture to consumer products, is a product of intelligence. This presentation is intended to demonstrate some of the exponential progress in current AI by focusing on the latest developments such as Transfer Learning, Real Scene Understanding, Deep Reinforcement Learning and more, in a fully understandable and easy way.
+>
+> 
+
+_Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
+
+### 2019-05-07 - Meetup AI Brasil em SP #20 - Visão Computacional (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/262815719/" target="_blank">Meetup AI Brasil em SP #20 - Visão Computacional</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
+
+### 2019-24-06 - Machine Learning Meetup: Special PAPIs (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/events/262437485/" target="_blank">Machine Learning Meetup: Special PAPIs</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
+
+### 2019-18-06 - Aula School of AI SP #13 - Introduão a Redes Neurais (pt-br)
+
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #13 - Introduão a Redes Neurais</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+
+Abstract:
+
+> 13th School of AI SP class. Intro to Artificial Neural Networks.
+>
+> 
+
+_Tags: `machine learning`, `data science`, `data science and AI education`, `artificial neural networks`, `ANNs`, `open classes`_
+
+### 2019-13-06 - The Developers Conference BH 2019 - ML na sala de aula: como a IA está mudando a educação em todo o mundo (pt-br)
+
+<a href="http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilha-machine-learning" target="_blank">The Developers Conference SP 2019 - Trilha Machine Learning</a>
+
+<a href="https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019BH/machine/DPC-8913_2019-06-13T104555_[Jose%20Ahirton%20Lopes]%20ML%20na%20Sala%20de%20Aula.pdf">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+
+Abstract:
+
+> Data generated through the daily monitoring of students and teachers in both traditional learning and e-learning environments can be used to design education-related improvements such as better recommendation of teaching materials, creation of personalized study plans and even generate predictions about student performance, for example, avoiding student dropout. All of these tasks have been attacked by state-of-the-art Machine Learning algorithms. In this presentation, we will have an immersive experience with some of these designs and algorithms, so we can foresee what will come up next.
+>
+> 
+
+_Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
+
+### 2019-08-06 - Nerdzão #113 - Introduão a Inteligência Artificial - Do Big ao Better Data - Quais os desafios mais atuais em IA atualmente? (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/Nerdzao/events/261865414/" target="_blank">Nerdzão #113 - Introduão a Inteligência Artificial</a>
+
+<a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags:
+
+### 2019-07-06 - Meetup AI Brasil em SP #19 - O que se espera de um profissional em Ciência de Dados? (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/261900828/" target="_blank">Meetup AI Brasil em SP #19</a>
+
+<a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags:
+
+### 2019-07-05 - Meetup AI Brasil em SP #18 - O que se espera do tal do Cientista de Dados? (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/261837757/" target="_blank">Meetup AI Brasil em SP #18</a>
+
+<a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a> 
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags:
+
+### 2019-18-05 - Big Data Brasil Experience 2019 - Do Big ao Better Data - Quais os desafios e técnicas mais atuais em Ciência de Dados? (pt-br)
+
+<a href="https://www.facebook.com/events/teatro-umc/big-data-brazil-experience-2019/860009157665798/" target="_blank">Big Data Brasil Experience 2019</a>
+
+<a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=Oq3HY7Pvh_k" target="_blank">video</a> 
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags:
+
 ## Papers and Blogposts
 
 ### <a href="https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e" target="_blank">2018-03-20 - Patterns — Generic Repository with Typescript and Node.js (en-us)</a>
@@ -272,65 +398,22 @@ _Tags: `training`, `online`, `docker`, `kubernetes`, `microsoft`
 
 ## Prizes, scholarships and academic achievements
 
-### 2019-03-12 - Scaling Node.js applications with Kubernetes and Docker (en-us)
+2019 - Participação como ex-participante e mentor no 5o Hackathon Globo 2019 no Rio de Janeiro, Rede Globo.
+2018 - Participação no 4o Hackathon Globo 2018 no Rio de Janeiro, Rede Globo.
+2018 - Participação no Hackathon Uber São Paulo 2018, Uber.
+2017 - Participação na turma 7 do HACKacelerator, programa global de aceleração de startups, AngelHack.
+2017 - Membro da equipe campeã do AngelHack Global Hackathon Series: São Paulo, AngelHack.
+2013 - Certificado de Proficiência em Língua Inglesa, Mackenzie Language Center.
+2010 - Participação no Desafio Nacional Acadêmico, ProNEAD.
+2010 - Participação no Desafio Nacional Acadêmico, ProNEAD.
+2009 - Participação no Desafio Nacional Acadêmico, ProNEAD.
+2008 - Certificate of Competency in English, The University of Michigan.
+2008 - Participação no Desafio Nacional Acadêmico, ProNEAD.
+2007 - Participação no Desafio Nacional Acadêmico, ProNEAD.
+2005 - Leitor do Ano, Colégio Marista Maranhense.
 
+2017 - - Doutorado (em andamento) em Engenharia Elétrica e Computação pela Universidade Presbiteriana Mackenzie.
 
-<a href="https://js-kongress.com" target="_blank">JS Kongress 2019 -  (R)evolution of Architectures</a>
+2014 - 2016 - Mestre em Engenharia Elétrica pela Universidade Presbiteriana Mackenzie - 2014 - 2016. Mestrado em Engenharia Elétrica (Conceito CAPES 4). Universidade Presbiteriana Mackenzie, MACKENZIE, Brasil. Título: Classificação de Gênero em Dados do Twitter Baseada na Extração de Meta-Atributos Textuais,Ano de Obtenção: 2016. Orientador: Leandro Nunes de Castro. Coorientador: Rodrigo Pasti. Bolsista do Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.  Palavras-chave: Aprendizado de Máquina; Classificação; Gênero; Mídias Sociais; Twitter; Extração. Grande área: Engenharias. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação.
 
-
-<a href="http://bit.ly/erickwendel-k8s-nodejs-jskongress2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-03-12-Scaling_Node.js_applications_with_Kubernetes_and_Docker" target="_blank">photos</a> 
-
-
-Abstract:
-
-> We will explore the benefits of DevOps process using Kubernetes, Docker, and Node.js. Showing how Docker and Node.js can work together, using the power of Kubernetes to release and to scale automatically stateless services. At this talk we will explore the key concepts and components to start working with Kubernetes, real scenarios and the differences between the traditional approach compared to Container based applications. Attendees will learn about the basics of Kubernetes and tips to scale Node.js applications furthermore they will learn the common problems that we face when we decide to change from monoliths to microservices using Docker and JavaScript.
-> 
-> 
-
-
-_Tags: `kubernetes`, `k8s`, `node.js`, `javascript`_
-
-### 2019-02-23 - The power of Typescript to work with Node.js Applications (en-us)
-
-
-<a href="GDG Silicon Valley DevFest 2019" target="_blank">https://gdgsv-devfest.appspot.com/schedule</a>
-
-
-<a href="http://bit.ly/erickwendel-gdgsv-ts-node" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-02-23-The_power_of_Typescript_to_work_with_Node.js_Applications" target="_blank">photos</a> |  <a href="https://twitter.com/i/status/1099477700652150785" target="_blank">video</a>
-
-### 2019-01-02 - The Velopers #21 - Erick Wendel (pt-br)
-
-
-<a href="https://youtu.be/_x60NFtZwb4" target="_blank">The Velopers #21</a>
-
-
-  <a href="http://bit.ly/thevelopers-erickwendel" target="_blank">video</a>
-
-
-Abstract:
-
-> Erick Wendel fala sobre seu começo com desenvolvimento, comunidades, carreira, meetups, nodeJS, o programa MVP,  palestras,em inglês e muito mais.
-> 
-> 
-
-
-_Tags: `webinar`_
-
-
-### 2018-10-05 - O que aprendi organizando grandes comunidades (pt-br)
-
-
-<a href="https://credencial.imasters.com.br/community-leaders-summit-2018" target="_blank">Community Leaders Summit</a>
-
-
-<a href="https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos" target="_blank">photos</a> |  <a href="https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/" target="_blank">video</a>
-
-
-Abstract:
-
-> Comunidades, são grandes desafios, lidar com pessoas nem sempre é fácil. Nesta conversa, os participantes conhecerão os bastidores das tretas e desafios de um grupo de usuários de 3 mil membros que chegou a 100 mil membros impactando milhares de pessoas pelo país, lidar com palestrantes e eventos simultaneos.
-> 
-> 
-
-
-_Tags: `career`, `communities`_
+2008 - 2013 - Bacharel em Engenharia da Computação pela Universidade Estadual do Maranhão - Graduação em Engenharia da Computação. Universidade Estadual do Maranhão, UEMA, Brasil. Título: Mineração de Dados para Auxílio na Divisão de Grupos Sócio-Afetivos Levando em Conta o Fator Afinidade Social. Orientador: Cícero Costa Quarto. Bolsista da Universidade Estadual do Maranhão (BIC-UEMA).
