@@ -304,37 +304,17 @@ _Tags:
 
 ## Papers and Blogposts
 
-### <a href="https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e" target="_blank">2018-03-20 - Patterns — Generic Repository with Typescript and Node.js (en-us)</a>
+### <a href="https://sites.google.com/view/upm-wppgeec/anais-dos-eventos/ii-wppgeec?authuser=0" target="_blank">2019-October - Short Paper — Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)</a>
 
+Event:
 
-Portal:
+> <a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">Workshop do PPGEEC</a>
 
-> <a href="https://hackernoon.com/" target="_blank">Hackernoon</a>
+### <a href="https://www.researchgate.net/publication/324953357_An_investigation_into_self-organization_in_a_swarm_of_UAVs" target="_blank">2018-January - Research Findings — An investigation into self-organization in a swarm of UAVs (pt-br)</a>
 
+### <a href="https://www.researchgate.net/publication/321779227_Uma_Nova_Era_para_os_Jogos_Point_and_Click_Como_a_Realidade_Virtual_pode_dar_Nova_Vida_aos_Jogos_de_Aventura" target="_blank">2017-December - Game Development course - PhD Degree — Uma Nova Era para os Jogos Point and Click: Como a Realidade Virtual pode dar Nova Vida aos Jogos de Aventura (pt-br)</a>
 
-Abstract:
-
-> If you work with Node.js/Javascript and you have many replicated codes for different data models or create CRUDs (Create, Read, Update and Delete) at all times, then this post is for you!
-> 
-> 
-
-
-_Tags: `typescript`, `javascript`, `node.js`, `design patterns`_
-
-### <a href="https://medium.com/horizon-four/code-stantards-padronizando-sua-equipe-de-desenvolvimento-e1e47e3edf11" target="_blank">2017-11-04 - Code Standards — Padronizando sua equipe de desenvolvimento Javascript (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://medium.com/horizon-four" target="_blank">Horizon Four</a>
-
-
-Abstract:
-
-> Tem problemas em implantar style guides (padrões de código) em Javascript e fazer com que este processo seja ágil e simples ? Então este tutorial é para você!
-> 
-> 
-
+### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
 
 ## Demonstrations and Open Classes
 
@@ -349,18 +329,6 @@ Abstract:
 
 
 _Tags: `node.js`, `microsoft`, `siri`, `vscode`_
-
-### <a href="https://www.facebook.com/page.erickwendel/videos/1202597676537643/" target="_blank">2018-01-09 - Original Potato - Jogando Batata Quente em tempo real! (pt-br)</a>
-
-
-Abstract:
-
-> Está no ar, mais um aplicativo da ZOEIRA! Sabe aquela galera que sai com você e fica o tempo todo no celular? Que tal interagir com a galera, revivendo os tempos de batata quente     mas de uma forma mais digital ?
-> 
-> 
-
-
-_Tags: `node.js`, `websocket`, `typescript`_
 
 ## Projects
 
@@ -380,23 +348,7 @@ Abstract:
 
 _Tags: `training`, `online`, `nodejs`, `javascript`, `iniciantes`, `docker`_
 
-### <a href="http://aka.ms/maratonakubernetes" target="_blank">2018-06-20 - Maratona Kubernetes - Microsoft (pt-br)</a>
-
-
-Abstract:
-
-> Ganhar eficiência e velocidade é uma busca constante em times de desenvolvimento em startups e grandes corporações, com o objetivo de aprimorar a qualidade de entrega do software e facilitar sua gestão e distribuição. Ferramentas e práticas, facilitam este processo de transição e potencialização de arquitetura. Entre as ferramentas, destaca-se o Kubernetes, um orquestrador de containers Open Source. Na Maratona Kubernetes, será possível aprender os conceitos de Kubernetes, e através de atividades práticas, a analisar e desenhar a implantação de orquestração de containers. Todas as atividades são orientadas a situações do cotidiano de empresas, passando por desafios como monitoramento de recursos, escala automática e segurança, utilizando o AKS e outras ferramentas do Azure.
-> 
-> <b>Links</b>
-> 
-> - <a href="http://aka.ms/maratonakubernetes" target="_blank">http://aka.ms/maratonakubernetes</a>
-> - <a href="https://github.com/CommunityBootcamp/Maratona-Kubernetes" target="_blank">https://github.com/CommunityBootcamp/Maratona-Kubernetes</a>
-> 
-
-
-_Tags: `training`, `online`, `docker`, `kubernetes`, `microsoft`
-
-## Prizes, scholarships and academic achievements
+## Prizes, academic achievements and scholarships
 
 * 2019 - Participação como ex-participante e mentor no 5o Hackathon Globo 2019 no Rio de Janeiro, Rede Globo.
 * 2018 - Participação no 4o Hackathon Globo 2018 no Rio de Janeiro, Rede Globo.
