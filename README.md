@@ -398,22 +398,22 @@ _Tags: `training`, `online`, `docker`, `kubernetes`, `microsoft`
 
 ## Prizes, scholarships and academic achievements
 
-2019 - Participação como ex-participante e mentor no 5o Hackathon Globo 2019 no Rio de Janeiro, Rede Globo.
-2018 - Participação no 4o Hackathon Globo 2018 no Rio de Janeiro, Rede Globo.
-2018 - Participação no Hackathon Uber São Paulo 2018, Uber.
-2017 - Participação na turma 7 do HACKacelerator, programa global de aceleração de startups, AngelHack.
-2017 - Membro da equipe campeã do AngelHack Global Hackathon Series: São Paulo, AngelHack.
-2013 - Certificado de Proficiência em Língua Inglesa, Mackenzie Language Center.
-2010 - Participação no Desafio Nacional Acadêmico, ProNEAD.
-2010 - Participação no Desafio Nacional Acadêmico, ProNEAD.
-2009 - Participação no Desafio Nacional Acadêmico, ProNEAD.
-2008 - Certificate of Competency in English, The University of Michigan.
-2008 - Participação no Desafio Nacional Acadêmico, ProNEAD.
-2007 - Participação no Desafio Nacional Acadêmico, ProNEAD.
-2005 - Leitor do Ano, Colégio Marista Maranhense.
+### 2019 - Participação como ex-participante e mentor no 5o Hackathon Globo 2019 no Rio de Janeiro, Rede Globo.
+### 2018 - Participação no 4o Hackathon Globo 2018 no Rio de Janeiro, Rede Globo.
+### 2018 - Participação no Hackathon Uber São Paulo 2018, Uber.
+### 2017 - Participação na turma 7 do HACKacelerator, programa global de aceleração de startups, AngelHack.
+### 2017 - Membro da equipe campeã do AngelHack Global Hackathon Series: São Paulo, AngelHack.
+### 2013 - Certificado de Proficiência em Língua Inglesa, Mackenzie Language Center.
+### 2010 - Participação no Desafio Nacional Acadêmico, ProNEAD.
+### 2010 - Participação no Desafio Nacional Acadêmico, ProNEAD.
+### 2009 - Participação no Desafio Nacional Acadêmico, ProNEAD.
+### 2008 - Certificate of Competency in English, The University of Michigan.
+### 2008 - Participação no Desafio Nacional Acadêmico, ProNEAD.
+### 2007 - Participação no Desafio Nacional Acadêmico, ProNEAD.
+### 2005 - Leitor do Ano, Colégio Marista Maranhense.
 
-2017 - - Doutorado (em andamento) em Engenharia Elétrica e Computação pela Universidade Presbiteriana Mackenzie.
+### 2017 - - Doutorado (em andamento) em Engenharia Elétrica e Computação pela Universidade Presbiteriana Mackenzie.
 
-2014 - 2016 - Mestre em Engenharia Elétrica pela Universidade Presbiteriana Mackenzie - 2014 - 2016. Mestrado em Engenharia Elétrica (Conceito CAPES 4). Universidade Presbiteriana Mackenzie, MACKENZIE, Brasil. Título: Classificação de Gênero em Dados do Twitter Baseada na Extração de Meta-Atributos Textuais,Ano de Obtenção: 2016. Orientador: Leandro Nunes de Castro. Coorientador: Rodrigo Pasti. Bolsista do Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.  Palavras-chave: Aprendizado de Máquina; Classificação; Gênero; Mídias Sociais; Twitter; Extração. Grande área: Engenharias. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+### 2014 - 2016 - Mestre em Engenharia Elétrica pela Universidade Presbiteriana Mackenzie - 2014 - 2016. Mestrado em Engenharia Elétrica (Conceito CAPES 4). Universidade Presbiteriana Mackenzie, MACKENZIE, Brasil. Título: Classificação de Gênero em Dados do Twitter Baseada na Extração de Meta-Atributos Textuais,Ano de Obtenção: 2016. Orientador: Leandro Nunes de Castro. Coorientador: Rodrigo Pasti. Bolsista do Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.  Palavras-chave: Aprendizado de Máquina; Classificação; Gênero; Mídias Sociais; Twitter; Extração. Grande área: Engenharias. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação.
 
-2008 - 2013 - Bacharel em Engenharia da Computação pela Universidade Estadual do Maranhão - Graduação em Engenharia da Computação. Universidade Estadual do Maranhão, UEMA, Brasil. Título: Mineração de Dados para Auxílio na Divisão de Grupos Sócio-Afetivos Levando em Conta o Fator Afinidade Social. Orientador: Cícero Costa Quarto. Bolsista da Universidade Estadual do Maranhão (BIC-UEMA).
+### 2008 - 2013 - Bacharel em Engenharia da Computação pela Universidade Estadual do Maranhão - Graduação em Engenharia da Computação. Universidade Estadual do Maranhão, UEMA, Brasil. Título: Mineração de Dados para Auxílio na Divisão de Grupos Sócio-Afetivos Levando em Conta o Fator Afinidade Social. Orientador: Cícero Costa Quarto. Bolsista da Universidade Estadual do Maranhão (BIC-UEMA).
