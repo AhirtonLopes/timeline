@@ -18,7 +18,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 * **Conference and Meetup Talks**: 2019/October - 2018/April
 * **Papers and Blogposts**: 2019/October - 2010/November 
-* **Videos**: 2019/October - 2017/July
+* **Videos and Podcasts**: 2019/October - 2017/July
 * **Demonstrations and Open Classes**: 2019/October - 2018/January
 * **Projects**: 2019/October - 2008/August 
 * **Prizes and scholarships**: 2019/October - 2008/August 
@@ -29,7 +29,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 - [Conference and Meetup Talks (48)](#conference-and-meetup-talks)
 - [Papers and Blogposts (18)](#papers-and-blogposts)
-- [Videos (22)](#videos)
+- [Videos and Podcasts (22)](#videos-and-podcasts)
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
 - [Projects (13)](#projects)
 - [Prizes and scholarships (16)](#prizes-and-scholarships)
@@ -315,6 +315,20 @@ Event:
 ### <a href="https://www.researchgate.net/publication/321779227_Uma_Nova_Era_para_os_Jogos_Point_and_Click_Como_a_Realidade_Virtual_pode_dar_Nova_Vida_aos_Jogos_de_Aventura" target="_blank">2017-December - Game Development course - PhD Degree — Uma Nova Era para os Jogos Point and Click: Como a Realidade Virtual pode dar Nova Vida aos Jogos de Aventura (pt-br)</a>
 
 ### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+
+## Videos and Podcasts
+
+### <a href="" target="_blank">2018-12-14 - Demo -  (pt-br)</a>
+
+
+Abstract:
+
+> . 
+> 
+> 
+
+
+_Tags: ``, ``, ``, ``_
 
 ## Demonstrations and Open Classes
 
