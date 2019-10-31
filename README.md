@@ -17,8 +17,8 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 ### Contributions Summary
 
 * **Conference and Meetup Talks**: 2019/October - 2018/April
-* **Papers and Blogposts**: 2019/October - 2009/March 
-* **Videos**: 2019/October - 2018/April
+* **Papers and Blogposts**: 2019/October - 2010/November 
+* **Videos**: 2019/October - 2017/July
 * **Demonstrations and Open Classes**: 2019/October - 2018/January
 * **Projects**: 2019/October - 2008/August 
 * **Prizes and scholarships**: 2019/October - 2008/August 
