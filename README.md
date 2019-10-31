@@ -318,33 +318,31 @@ Event:
 
 ## Demonstrations and Open Classes
 
-### <a href="https://www.facebook.com/page.erickwendel/videos/2248556708749766/" target="_blank">2018-12-14 - Demo - VSCode extensions: Cognitive Services + Siri + VSCode + Node.js - Criando uma extensão de tradução de texto no editor (pt-br)</a>
+### <a href="" target="_blank">2018-12-14 - Demo -  (pt-br)</a>
 
 
 Abstract:
 
-> Amanha (15/12) acontece o Developers Sergipe e estamos mais que animados! Preparei uma demonstração integrando o #vscode, o serviço de tradução do #azure e a #siri, para a partir da seleção de um texto, traduzir automaticamente e falar o resultado em nosso idioma, é claro que é uma demo bem simples, mas mostra o poder e as ideias que vem em mente para brincar 😀 
+> . 
 > 
 > 
 
 
-_Tags: `node.js`, `microsoft`, `siri`, `vscode`_
+_Tags: ``, ``, ``, ``_
 
 ## Projects
 
-### <a href="https://treinamento.nodebr.org" target="_blank">2018-11-27 - #CursoNodeBR - EW.IT + NodeBR (pt-br)</a>
-
+### <a href="" target="_blank">2018-11-27 -  (pt-br)</a>
 
 Abstract:
 
-> Este treinamento foi desenvolvido sob medida baseado em uma pesquisa sobre o que a comunidade brasileira mais necessita, suas principais dificuldades e desafios. Neste curso você aprenderá desde o básico de Javascript, ciclo de vida, manipulação de listas ao desenvolvimento real de aplicações em ambiente de produção. Na prática você também aprenderá conceitos sobre desenvolvimento orientado a testes, autenticação, autorização, documentação de serviços e gerenciamento de variáveis de ambiente (environments) de aplicações.
+> .
 > 
 > <b>Links</b>
 > 
-> - <a href="https://treinamento.nodebr.org" target="_blank">https://treinamento.nodebr.org</a>
-> - <a href="https://github.com/nodejsbrazil/cursonodebr01" target="_blank">https://github.com/nodejsbrazil/cursonodebr01</a>
+> - <a href="" target="_blank">https://</a>
+> - <a href="" target="_blank">https://</a>
 > 
-
 
 _Tags: `training`, `online`, `nodejs`, `javascript`, `iniciantes`, `docker`_
 
