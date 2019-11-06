@@ -23,7 +23,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 * **Projects**: 2019/October - 2008/August 
 * **Prizes and scholarships**: 2019/October - 2008/August 
 
-#### Presentations' number: 48 from 2018/April onwards 
+#### Presentations' number: 49 from 2018/April onwards 
 
 ## Table of Contents
 
