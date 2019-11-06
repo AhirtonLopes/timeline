@@ -29,7 +29,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 - [Conference and Meetup Talks (49)](#conference-and-meetup-talks)
 - [Papers and Blogposts (18)](#papers-and-blogposts)
-- [Videos and Podcasts (22)](#videos-and-podcasts)
+- [Videos and Podcasts (23)](#videos-and-podcasts)
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
 - [Projects (13)](#projects)
 - [Prizes and scholarships (16)](#prizes-and-scholarships)
