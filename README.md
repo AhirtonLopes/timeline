@@ -36,7 +36,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 ## Conference and Meetup Talks
 
-### 2019-15-10 - Aula School of AI SP #22 - Introdução a Visão Computacional (pt-br)
+### 2019-05-11 - Aula School of AI SP #22 - Introdução a Visão Computacional (pt-br)
 
 <a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #22</a>
 
