@@ -27,7 +27,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 ## Table of Contents
 
-- [Conference and Meetup Talks (48)](#conference-and-meetup-talks)
+- [Conference and Meetup Talks (49)](#conference-and-meetup-talks)
 - [Papers and Blogposts (18)](#papers-and-blogposts)
 - [Videos and Podcasts (22)](#videos-and-podcasts)
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
@@ -35,6 +35,21 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 - [Prizes and scholarships (16)](#prizes-and-scholarships)
 
 ## Conference and Meetup Talks
+
+### 2019-15-10 - Aula School of AI SP #22 - Introdução a Visão Computacional (pt-br)
+
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #22</a>
+
+<a href="https://github.com/AhirtonLopes/School_of_AI_22" target="_blank">slides and demos</a> |  <a href="https://www.youtube.com/watch?v=enecWHfR8RU" target="_blank">video</a>
+
+Abstract:
+
+> 22th School of AI SP class. Intro to Computer Vision.
+>
+> 
+
+_Tags: `machine learning`, `data science`, `data science and AI education`, `computer vision`, `CNNs`, `open classes`_
+
 
 ### 2019-15-10 - ODSC Brasil 2019 - Transfer Learning, GANs e Deep Fakes, impactos futuros e presentes (pt-br)
 
