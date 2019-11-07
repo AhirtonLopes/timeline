@@ -40,8 +40,7 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 <a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #22</a>
 
-<a href="https://github.com/AhirtonLopes/School_of_AI_22" target="_blank">slides and demos</a> |  <a href="https://www.youtube.com/watch?v=enecWHfR8RU" target="_blank">video - parte 1</a> |  <a href="https://www.youtube.com/watch?v=uAl55Rqt-hw"_blank">video - parte 2</a>
-
+<a href="https://github.com/AhirtonLopes/School_of_AI_22" target="_blank">slides and demos</a> | <a href="https://www.youtube.com/watch?v=enecWHfR8RU" target="_blank">video - parte 1</a> |  <a href="https://www.youtube.com/watch?v=uAl55Rqt-hw" target="_blank">video - parte 2</a>
 Abstract:
 
 > 22th School of AI SP class. Intro to Computer Vision.
