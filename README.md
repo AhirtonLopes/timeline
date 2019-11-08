@@ -116,7 +116,7 @@ _Tags: `machine learning`, `artificial intelligence`, `AI ethics`_
 
 Abstract:
 
-> Apresentação junto ao Sergio Gama (IBM) sobre Ciência de Dados para Transformação Digital.
+> Me and <a href="https://www.linkedin.com/in/sergiogama/" target="_blank">Sergio Gama (IBM)</a> gave a duo talk about "Data Science in Digital Transformation" where we discussed about how businesses are adapting themselves to absorb the use of technologies such as Data Science and Artificial Intelligence in their processes in order to be more data oriented.
 > 
 > 
 
