@@ -140,7 +140,7 @@ _Tags: `machine learning`, `artificial intelligence`, `AI ethics`_
 
 <a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #18</a>
 
-<a href="https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/18_aula_2019" target="_blank">slides and demos</a> |  <a href="https://www.youtube.com/watch?v=F3v7PDjgnw4" target="_blank">video</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-24-09-%20School_of_AI_20" target="_blank">photo</a> 
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/18_aula_2019" target="_blank">slides and demos</a> |  <a href="https://www.youtube.com/watch?v=F3v7PDjgnw4" target="_blank">video</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-24-09-School_of_AI_18" target="_blank">photos</a> 
 
 Abstract:
 
@@ -154,11 +154,11 @@ _Tags: `machine learning`, `data science`, `data science and AI education`, `tra
 
 <a href="https://nerdzao.netlify.com/day/" target="_blank">Nerdzão Day 2019</a>
 
-<a href="" target="_blank">photo</a> 
+<a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-24-08-Nerdzao_Day_2019" target="_blank">photos</a> 
 
 Abstract:
 
-> Participated in an Artificial Intelligence panel with Alexandre Nunes and Antonio Neto, discussing job opportunities, projects and the future of AI as well as machine learning technologies.
+> Participated in an Artificial Intelligence panel with <a href="https://www.linkedin.com/in/alexandresnunes/" target="_blank">Alexandre Nunes</a> and <a href="https://www.linkedin.com/in/antonio-dot-net/" target="_blank">Antonio Neto</a>, discussing job opportunities, projects and the future of AI as well as machine learning technologies.
 >
 > 
 
