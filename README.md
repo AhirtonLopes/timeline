@@ -84,9 +84,7 @@ _Tags: `machine learning`, `dropout risk prediction`, `supervised classification
 
 <a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #20</a>
 
-<a href="https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019" target="_blank">slides and demos</a> |  <a href="https://www.youtube.com/watch?v=fDgEZezYP7Y&" target="_blank">video - 1</a> |  <a href="https://youtu.be/MzcYt9TgAro" target="_blank">video - 2</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-24-09-%20School_of_AI_20" target="_blank">photo</a> 
-
-https://youtu.be/MzcYt9TgAro
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/20_aula_2019" target="_blank">slides and demos</a> |  <a href="https://www.youtube.com/watch?v=fDgEZezYP7Y&" target="_blank">video - 1</a> |  <a href="https://youtu.be/MzcYt9TgAro" target="_blank">video - 2</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-24-09-School_of_AI_20" target="_blank">photo</a> 
 
 Abstract:
 
