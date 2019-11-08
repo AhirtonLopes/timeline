@@ -196,7 +196,7 @@ _Tags: `machine learning`, `data science`, `GANs`, `Deep Fakes`, `data scientist
 
 <a href="https://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-inteligencia-artificial" target="_blank">The Developers Conference SP 2019 - Trilha Inteligência Artificial</a>
 
-<a href="https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019SP/intelartif/TGP-2176_2019-07-18T080906_TDC%20-%20Ahirton%20Lopes%20-%20Em%20busca%20do%20Estado%20da%20Arte%20em%20IA.pdf" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+<a href="https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019SP/intelartif/TGP-2176_2019-07-18T080906_TDC%20-%20Ahirton%20Lopes%20-%20Em%20busca%20do%20Estado%20da%20Arte%20em%20IA.pdf" target="_blank">slides</a> | <a href="" target="_blank">demos</a> | <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-16-07-Trilha_Inteligencia_Artificial_TDCSP2019" target="_blank">photos</a>
 
 Abstract:
 
@@ -204,35 +204,34 @@ Abstract:
 >
 > 
 
-_Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
+_Tags: `machine learning`, `data science`, `deep learning`, `AI algorithms`_
 
-### 2019-05-07 - Meetup AI Brasil em SP #20 - Visão Computacional (pt-br)
+### 2019-05-07 - Meetup AI Brasil em SP #20 - Transfer Learning, GANs e Deep Fakes, impactos futuros e presentes (pt-br)
 
-<a href="https://www.meetup.com/pt-BR/ai-brasil/events/262815719/" target="_blank">Meetup AI Brasil em SP #20 - Visão Computacional</a>
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/262815719/" target="_blank">Meetup AI Brasil em São Paulo #20 | FC Nuvem - Visão Computacional </a>
 
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+<a href="" target="_blank">slides</a> | <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-05-07-Meetup_AI_Brasil_20" target="_blank">photo</a> 
 
 Abstract:
 
-> .
->
+> Gave the talk "Transfer Learning, GANs and Deep Fakes, future and present impacts" where I presented some of the main adversarial generative network algorithms and use cases such as various deep fake videos.
 > 
 
 _Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
 
-### 2019-24-06 - Machine Learning Meetup: Special PAPIs (pt-br)
+### 2019-24-06 - Machine Learning Meetup: Special PAPIs - ML na sala de aula: como a IA está mudando a educação em todo o mundo (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/events/262437485/" target="_blank">Machine Learning Meetup: Special PAPIs</a>
 
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+<a href="" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-24-06-Nubank_Machine_Learning_PAPIs" target="_blank">photos</a>
 
 Abstract:
 
-> .
+> Data generated through the daily monitoring of students and teachers, in both traditional learning and e-learning environments, can be used to project education-related improvements such as better recommendation of teaching materials, creation of personalized study plans and even generate predictions about student performance, for example, avoiding student dropout. All of these tasks have been attacked by state-of-the-art Machine Learning algorithms. In this presentation, we had an immersive experience with some of these projects and algorithms, so we could foresee what will come up next.
 >
 > 
 
-_Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
+_Tags: `machine learning`, `data science`, `education`, `edtech`, `dropout prediction`_
 
 ### 2019-18-06 - Aula School of AI SP #13 - Introduão a Redes Neurais (pt-br)
 
