@@ -219,7 +219,7 @@ Abstract:
 
 _Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
 
-### 2019-24-06 - Machine Learning Meetup: Special PAPIs - ML na sala de aula: como a IA está mudando a educação em todo o mundo (pt-br)
+### 2019-24-06 - NuBank Data Science & Machine Learning - Machine Learning Meetup: Special PAPIs - ML na sala de aula: como a IA está mudando a educação em todo o mundo (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/machine-learning-big-data-engenharia/events/262437485/" target="_blank">Machine Learning Meetup: Special PAPIs</a>
 
@@ -233,11 +233,11 @@ Abstract:
 
 _Tags: `machine learning`, `data science`, `education`, `edtech`, `dropout prediction`_
 
-### 2019-18-06 - Aula School of AI SP #13 - Introduão a Redes Neurais (pt-br)
+### 2019-18-06 - Aula School of AI SP #13 - Introdução a Redes Neurais (pt-br)
 
-<a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #13 - Introduão a Redes Neurais</a>
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #13 - Introdução a Redes Neurais</a>
 
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+<a href="" target="_blank">slides</a> | <a href="https://youtu.be/OqXnlP5SpkI?list=PLSlocgG60TAq27jKDXPNR2ZmY0gO2yC7m" target="_blank">video</a> | <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-24-06-School_of_AI_13" target="_blank">photos</a>
 
 Abstract:
 
@@ -251,7 +251,7 @@ _Tags: `machine learning`, `data science`, `data science and AI education`, `art
 
 <a href="http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilha-machine-learning" target="_blank">The Developers Conference SP 2019 - Trilha Machine Learning</a>
 
-<a href="https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019BH/machine/DPC-8913_2019-06-13T104555_[Jose%20Ahirton%20Lopes]%20ML%20na%20Sala%20de%20Aula.pdf">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+<a href="https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019BH/machine/DPC-8913_2019-06-13T104555_[Jose%20Ahirton%20Lopes]%20ML%20na%20Sala%20de%20Aula.pdf">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-13-06-Trilha_Machine_Learning_TDCBH2019" target="_blank">photos</a>
 
 Abstract:
 
@@ -259,11 +259,11 @@ Abstract:
 >
 > 
 
-_Tags: `machine learning`, `data science`, `AI carreer`, `data scientist`_
+_Tags: `machine learning`, `data science`, `edtech`, `dropout prediction`_
 
-### 2019-08-06 - Nerdzão #113 - Introduão a Inteligência Artificial - Do Big ao Better Data - Quais os desafios mais atuais em IA atualmente? (pt-br)
+### 2019-08-06 - Nerdzão #113 - Introdução a Inteligência Artificial - Do Big ao Better Data - Quais os desafios mais atuais em IA atualmente? (pt-br)
 
-<a href="https://www.meetup.com/pt-BR/Nerdzao/events/261865414/" target="_blank">Nerdzão #113 - Introduão a Inteligência Artificial</a>
+<a href="https://www.meetup.com/pt-BR/Nerdzao/events/261865414/" target="_blank">Nerdzão #113 - Introdução a Inteligência Artificial</a>
 
 <a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
 
