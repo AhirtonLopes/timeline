@@ -102,7 +102,7 @@ _Tags: `machine learning`, `data science`, `data science and AI education`, `tra
 
 Abstract:
 
-> Gave the talk "What's new in AI and Chatbots?" about tendencies and technologies being used in the latest chatbot best cases as well as I show some tips on how to develop chatbots aiming for good user experience.
+> Gave the talk "What's new in AI and Chatbots?" about tendencies and technologies being used in the latest chatbot best cases as well as I showed some tips on how to develop chatbots aiming for good user experience.
 > 
 > 
 
