@@ -69,7 +69,8 @@ _Tags: `transfer learning`, `gans`, `deep fakes`, `deep learning`_
 
 <a href="https://sites.google.com/view/upm-wppgeec/p%C3%A1gina-inicial?authuser=0" target="_blank">II Workshop do Programa de Pós-Graduação em Engenharia Elétrica e Computação (II WPPGEEC)</a>
 
-<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-deteco-precoce-de-estudantes-em-risco-de-evaso-usando-dados-administrativos-e-aprendizagem-de-maquina" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-03-10-Workshop_PPGEEC_Predicao_Risco_Evasao" target="_blank">photos</a> 
+<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-deteco-precoce-de-estudantes-em-risco-de-evaso-usando-dados-administrativos-e-aprendizagem-de-maquina" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-03-10-Workshop_PPGEEC_Predicao_Risco_Evasao" target="_blank">photos</a> |  <a href="https://sites.google.com/view/upm-wppgeec/anais-dos-eventos/ii-wppgeec?authuser=0" target="_blank">paper</a> 
+
 
 Abstract:
 
