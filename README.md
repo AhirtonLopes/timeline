@@ -265,21 +265,21 @@ _Tags: `machine learning`, `data science`, `edtech`, `dropout prediction`_
 
 <a href="https://www.meetup.com/pt-BR/Nerdzao/events/261865414/" target="_blank">Nerdzão #113 - Introdução a Inteligência Artificial</a>
 
-<a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+<a href="">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-08-06-Nerdzao113" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
 
 Abstract:
 
-> .
+> Gave the talk "From Big to Better Data - What are the most current AI challenges today?" where I talked about some of the latest Deep Learning tequniques and use cases.
 >
 > 
 
-_Tags:
+_Tags: `machine learning`, `data science`, `deep learning`, `new challenges`_
 
 ### 2019-07-06 - Meetup AI Brasil em SP #19 - O que se espera de um profissional em Ciência de Dados? (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/ai-brasil/events/261900828/" target="_blank">Meetup AI Brasil em SP #19</a>
 
-<a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+<a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a> 
 
 Abstract:
 
@@ -293,7 +293,7 @@ _Tags:
 
 <a href="https://www.meetup.com/pt-BR/ai-brasil/events/261837757/" target="_blank">Meetup AI Brasil em SP #18</a>
 
-<a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a> 
+<a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=OMlH8NArxB0" target="_blank">video</a> 
 
 Abstract:
 
