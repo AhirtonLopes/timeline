@@ -317,6 +317,20 @@ Abstract:
 
 _Tags:
 
+### 2019-07-05 - Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means (pt-br)
+
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+
+Abstract:
+
+> 10th School of AI SP class. Intro to K Nearest Neighbor and K-Means algorithms.
+>
+> 
+
+_Tags: `machine learning`, `data science`, `data science and AI education`, `KNN`, `K-Means`, `open classes`_
+
 ## Papers and Blogposts
 
 ### <a href="https://sites.google.com/view/upm-wppgeec/anais-dos-eventos/ii-wppgeec?authuser=0" target="_blank">2019-October - Short Paper — Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)</a>
@@ -375,7 +389,13 @@ Abstract:
 
 _Tags: `training`, `online`, `nodejs`, `javascript`, `iniciantes`, `docker`_
 
-## Prizes, academic achievements and scholarships
+## Scholarships, prizes and academic achievements
+
+* 2017 - Doutorado (em andamento) em Engenharia Elétrica e Computação pela Universidade Presbiteriana Mackenzie (Conceito CAPES 4). Universidade Presbiteriana Mackenzie, MACKENZIE, Brasil. Bolsista (modalidade isenção de taxas) da Universidade Presbiteriana Mackenzie (UPM).
+
+* 2014 - 2016 - Mestre em Engenharia Elétrica pela Universidade Presbiteriana Mackenzie - 2014 - 2016. Mestrado em Engenharia Elétrica (Conceito CAPES 4). Universidade Presbiteriana Mackenzie, MACKENZIE, Brasil. Título: Classificação de Gênero em Dados do Twitter Baseada na Extração de Meta-Atributos Textuais, Ano de Obtenção: 2016. Orientador: Leandro Nunes de Castro. Coorientador: Rodrigo Pasti. Bolsista do Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.  Palavras-chave: Aprendizado de Máquina; Classificação; Gênero; Mídias Sociais; Twitter; Extração. Grande área: Engenharias. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+
+* 2008 - 2013 - Bacharel em Engenharia da Computação pela Universidade Estadual do Maranhão - Graduação em Engenharia da Computação. Universidade Estadual do Maranhão, UEMA, Brasil. Título: Mineração de Dados para Auxílio na Divisão de Grupos Sócio-Afetivos Levando em Conta o Fator Afinidade Social. Orientador: Cícero Costa Quarto. Bolsista da Universidade Estadual do Maranhão (BIC-UEMA).
 
 * 2019 - Participação como ex-participante e mentor no 5o Hackathon Globo 2019 no Rio de Janeiro, Rede Globo.
 * 2018 - Participação no 4o Hackathon Globo 2018 no Rio de Janeiro, Rede Globo.
@@ -390,9 +410,3 @@ _Tags: `training`, `online`, `nodejs`, `javascript`, `iniciantes`, `docker`_
 * 2008 - Participação no Desafio Nacional Acadêmico, ProNEAD.
 * 2007 - Participação no Desafio Nacional Acadêmico, ProNEAD.
 * 2005 - Leitor do Ano, Colégio Marista Maranhense.
-
-* 2017 - - Doutorado (em andamento) em Engenharia Elétrica e Computação pela Universidade Presbiteriana Mackenzie (Conceito CAPES 4). Universidade Presbiteriana Mackenzie, MACKENZIE, Brasil. Bolsista (modalidade isenção de taxas) da Universidade Presbiteriana Mackenzie (UPM).
-
-* 2014 - 2016 - Mestre em Engenharia Elétrica pela Universidade Presbiteriana Mackenzie - 2014 - 2016. Mestrado em Engenharia Elétrica (Conceito CAPES 4). Universidade Presbiteriana Mackenzie, MACKENZIE, Brasil. Título: Classificação de Gênero em Dados do Twitter Baseada na Extração de Meta-Atributos Textuais, Ano de Obtenção: 2016. Orientador: Leandro Nunes de Castro. Coorientador: Rodrigo Pasti. Bolsista do Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.  Palavras-chave: Aprendizado de Máquina; Classificação; Gênero; Mídias Sociais; Twitter; Extração. Grande área: Engenharias. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação.
-
-* 2008 - 2013 - Bacharel em Engenharia da Computação pela Universidade Estadual do Maranhão - Graduação em Engenharia da Computação. Universidade Estadual do Maranhão, UEMA, Brasil. Título: Mineração de Dados para Auxílio na Divisão de Grupos Sócio-Afetivos Levando em Conta o Fator Afinidade Social. Orientador: Cícero Costa Quarto. Bolsista da Universidade Estadual do Maranhão (BIC-UEMA).
