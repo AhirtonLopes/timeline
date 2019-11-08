@@ -158,7 +158,7 @@ _Tags: `machine learning`, `data science`, `data science and AI education`, `tra
 
 Abstract:
 
-> Participated in an Artificial Intelligence panel with <a href="https://www.linkedin.com/in/alexandresnunes/" target="_blank">Alexandre Nunes</a> and <a href="https://www.linkedin.com/in/antonio-dot-net/" target="_blank">Antonio Neto</a>, mediated by <a href="https://www.linkedin.com/in/leticiaspedroso/" target="_blank">Leticia Pedroso</a discussing job opportunities, projects and the future of AI as well as machine learning technologies.
+> Participated in an Artificial Intelligence panel with <a href="https://www.linkedin.com/in/alexandresnunes/" target="_blank">Alexandre Nunes</a> and <a href="https://www.linkedin.com/in/antonio-dot-net/" target="_blank">Antonio Neto</a>, mediated by <a href="https://www.linkedin.com/in/leticiaspedroso/" target="_blank">Leticia Pedroso</a> discussing job opportunities, projects and the future of AI as well as machine learning technologies.
 >
 > 
 
