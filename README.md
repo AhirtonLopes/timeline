@@ -124,7 +124,7 @@ _Tags: `machine learning`, `data science`, `data science education`, `digital tr
 
 ### 2019-04-09 - Meetup AI Brasil em SP #23 - Ética em IA - Casos e Boas Práticas (pt-br)
 
-<a href="" target="_blank">Meetup AI Brasil em São Paulo #23 | FC Nuvem - Ética e Confidencialidade em IA</a>
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/264494530/" target="_blank">Meetup AI Brasil em São Paulo #23 | FC Nuvem - Ética e Confidencialidade em IA</a>
 
 <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-04-17-Meetup_AI_Brasil_23" target="_blank">photos</a> 
 
