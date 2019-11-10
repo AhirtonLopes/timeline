@@ -36,11 +36,11 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 ## Conference and Meetup Talks
 
-### 2019-17-09 - Meetup AI Brasil em SP #25 - O que se espera da tal Equipe de Dados? (pt-br)
+### 2019-09-11 - Meetup AI Brasil em SP #25 - O que se espera da tal Equipe de Dados? (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/ai-brasil/events/266019549/" target="_blank">Meetup AI Brasil em São Paulo #25 | LCoN Mackenzie + AXONDATA</a>
 
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
+<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-o-que-se-espera-da-tal-equipe-de-dados" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-09-11-Meetup_AI_Brasil_25" target="_blank">photos</a> 
 
 Abstract:
 
