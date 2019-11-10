@@ -293,29 +293,29 @@ _Tags: `machine learning`, `data science`, `deep learning`, `new challenges`_
 
 <a href="https://www.meetup.com/pt-BR/ai-brasil/events/261900828/" target="_blank">Meetup AI Brasil em SP #19</a>
 
-<a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a> 
+<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-o-que-se-espera-do-tal-cientista-de-dados">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-05-07-Meetup_AI_Brasil_19" target="_blank">photos</a> |  <a href="https://youtu.be/sf-8RGfz8iU?t=6907" target="_blank">video</a> 
 
 Abstract:
 
-> .
+> Gave the talk "What to expect from a professional in Data Science?", about tendencies and technologies being used in the latest data science projects as well as explaining about the different roles in a data squad such as Data Scientists, Data Engineers, Data Analysts and Machine Learning Engineers.
 >
 > 
 
-_Tags:
+_Tags: `machine learning`, `artificial intelligence`, `AI squads`, `ÀI career`, `Data Scientist`, `Data Squad`_
 
 ### 2019-07-05 - Meetup AI Brasil em SP #18 - O que se espera do tal do Cientista de Dados? (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/ai-brasil/events/261837757/" target="_blank">Meetup AI Brasil em SP #18</a>
 
-<a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=OMlH8NArxB0" target="_blank">video</a> 
+<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-o-que-se-espera-do-tal-cientista-de-dados">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-06-06-Meetup_AI_Brasil_18" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=OMlH8NArxB0" target="_blank">video</a> 
 
 Abstract:
 
-> .
+> Gave the talk "What to expect from the so called Data Scientist?" about tendencies and technologies being used in the latest data science projects as well as explaining about the different roles in a data squad such as Data Scientists, Data Engineers, Data Analysts and Machine Learning Engineers.
 >
 > 
 
-_Tags:
+_Tags: `machine learning`, `artificial intelligence`, `AI squads`, `ÀI career`, `Data Scientist`, `Data Squad`_
 
 ### 2019-18-05 - Big Data Brasil Experience 2019 - Do Big ao Better Data - Quais os desafios e técnicas mais atuais em Ciência de Dados? (pt-br)
 
