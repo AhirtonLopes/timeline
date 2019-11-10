@@ -335,7 +335,7 @@ _Tags: `machine learning`, `artificial intelligence`, `deeo learning`, `autoenco
 
 <a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
 
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">demos</a> 
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=K13GeZB1gUE" target="_blank">video - 1</a> |  <a href="https://www.youtube.com/watch?v=rM-WeCksjws" target="_blank">video - 2</a> 
 
 Abstract:
 
@@ -344,6 +344,160 @@ Abstract:
 > 
 
 _Tags: `machine learning`, `data science`, `data science and AI education`, `KNN`, `K-Means`, `open classes`_
+
+### 2019-06- - -  (pt-br)
+
+<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
+
+### 2019-06- - -  (pt-br)
+
+<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
+
+### 2019-06- - -  (pt-br)
+
+<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
+
+### 2019-06- - -  (pt-br)
+
+<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
+
+### 2019-06- - -  (pt-br)
+
+<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
+
+### 2019-06- - -  (pt-br)
+
+<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
+
+### 2019-06- - -  (pt-br)
+
+<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
+
+### 2019-06- - -  (pt-br)
+
+<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
+
+### 2019-06- - -  (pt-br)
+
+<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
+
+### 2019-06- - -  (pt-br)
+
+<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
+
+### 2019-06- - -  (pt-br)
+
+<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
 
 ## Papers and Blogposts
 
