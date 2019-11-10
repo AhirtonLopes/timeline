@@ -321,15 +321,15 @@ _Tags: `machine learning`, `artificial intelligence`, `AI squads`, `ÀI career`,
 
 <a href="https://www.facebook.com/events/teatro-umc/big-data-brazil-experience-2019/860009157665798/" target="_blank">Big Data Brasil Experience 2019</a>
 
-<a href="">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=Oq3HY7Pvh_k" target="_blank">video</a> 
+<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-do-big-ao-better-data">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-18-05-BDBE2019" target="_blank">photos</a> |  <a href="https://youtu.be/Oq3HY7Pvh_k" target="_blank">video</a> 
 
 Abstract:
 
-> .
+> Gave the talk "From Big to Better Data - What are the biggest challenges and most used techniques in Data Science?" about tendencies and technologies being used in the latest data science projects, especially Deep Learning ones such as Autoencoders, LSTMs, CNNs, RNNs and more.
 >
 > 
 
-_Tags:
+_Tags: `machine learning`, `artificial intelligence`, `deeo learning`, `autoencoders`, `CNNs`, `RNNs`_
 
 ### 2019-07-05 - Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means (pt-br)
 
