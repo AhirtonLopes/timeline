@@ -359,6 +359,34 @@ Event:
 
 ### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
 
+### <a href="https://www.researchgate.net/publication/293794120_Gender_Classification_of_Twitter_Data_Based_on_Textual_Meta-Attributes_Extraction" target="_blank">2016-March - Dissertation Paper - MSc. Degree — Gender Classification of Twitter Data Based on Textual Meta-Attributes Extraction (en-us)</a>
+
+Event:
+
+> <a href="http://www.aistic.org/wcist2016/oc16/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank">WorldCist'16 - 4th World Conference on Information Systems and Technologies</a>
+
+### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2016-March - Dissertation Paper - MSc. Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+
 ## Videos and Podcasts
 
 ### <a href="" target="_blank">2018-12-14 - Demo -  (pt-br)</a>
