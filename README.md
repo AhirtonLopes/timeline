@@ -36,6 +36,20 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 ## Conference and Meetup Talks
 
+### 2019-17-09 - Meetup AI Brasil em SP #25 - O que se espera da tal Equipe de Dados? (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/266019549/" target="_blank">Meetup AI Brasil em São Paulo #25 | LCoN Mackenzie + AXONDATA</a>
+
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+> Gave the talk "What to expect from the so called Data Squad?" about tendencies and technologies being used in the latest data science projects as well as explaining abou the different roles in a data squad such as Data Scientists, Data Engineers, Data Analysts and Machine Learning Engineers.
+> 
+> 
+
+_Tags: `machine learning`, `artificial intelligence`, `AI squads`, `ÀI career`, `Data Scientist`, `Data Squad`_
+
 ### 2019-05-11 - Aula School of AI SP #22 - Introdução a Visão Computacional (pt-br)
 
 <a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #22</a>
