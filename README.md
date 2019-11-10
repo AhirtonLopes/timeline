@@ -325,7 +325,7 @@ _Tags: `machine learning`, `artificial intelligence`, `AI squads`, `ÀI career`,
 
 Abstract:
 
-> Gave the talk "From Big to Better Data - What are the biggest challenges and most used techniques in Data Science?" about tendencies and technologies being used in the latest data science projects, especially Deep Learning ones such as Autoencoders, LSTMs, CNNs, RNNs and more.
+> Gave the talk "From Big to Better Data - What are the biggest challenges and most used techniques in Data Science?" about tendencies and technologies being used in the latest data science projects, especially the ones based in Deep Learning algorithms such as Autoencoders, LSTMs, CNNs, RNNs and more.
 >
 > 
 
