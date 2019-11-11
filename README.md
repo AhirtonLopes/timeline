@@ -421,9 +421,9 @@ Event:
 
 > <a href="http://www.aistic.org/wcist2016/oc16/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank">WorldCist'16 - 4th World Conference on Information Systems and Technologies - Recife - PE</a>
 
-### <a href="http://tede.mackenzie.br/jspui/handle/tede/2810" target="_blank">2016-March - Masters Dissertation (MSc.) in Electric Engineering - Classificação de gênero em dados do Twitter baseada na extração de meta-atributos textuais (pt-br)</a>
+### <a href="http://tede.mackenzie.br/jspui/handle/tede/2810" target="_blank">2016-March - Masters Dissertation (MSc.) in Electrical Engineering - Classificação de gênero em dados do Twitter baseada na extração de meta-atributos textuais (pt-br)</a>
 
-MSc. in Electric Engineering by way of Universidade Presbiteraiana Mackenzie (UPM):
+MSc. in Electrical Engineering by way of Universidade Presbiteraiana Mackenzie (UPM):
 
 > <a href="http://tede.mackenzie.br/jspui/handle/tede/2810" target="_blank">Universidade Presbiteraiana Mackenzie (UPM) - São Paulo - SP</a>
 
