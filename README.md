@@ -532,6 +532,93 @@ _Tags: ``, ``, ``, ``_
 
 ## Projects
 
+* 1 - 2019 - Atual - A Method for Early Detection of Students at Dropout Risk Using Administrative Data and Machine Learning
+DescriÁ„o: A existÍncia de um EDS (early detection system, ou sistema de detecÁ„o precoce) pode oferecer um importante ponto de partida para a pesquisa em evas„o bem como oferecer insights importantes para a administraÁ„o de instituiÁıes de ensino e pode servir de base para futuras intervenÁıes e construÁ„o de polÌticas e boas pr·ticas para a reduÁ„o no n˙mero de estudantes evadidos. Podem, portanto, servir de apoio a processos decisÛrios estratÈgicos, t·ticos e operacionais das instituiÁıes. Os EDS ent„o, em sua grande maioria, s„o desenvolvidos de modo a ter observaÁ„o regular de tais indicadores especÌficos tendo em vista acompanhamento do desempenho escolar dos alunos antes de desistirem. Nos ˙ltimos anos, o esforÁo para se criar sistemas EDS mais assertivos para contextos educacionais aumentou e, atualmente, existem alguns exemplos de EDS implementados em diferentes paÌses. Assim sendo, vislumbramos a possibilidade de atacar o problema de detecÁ„o de alunos em risco por meio de classificadores tais como ¡rvores de Decis„o, SVMs e Redes Neurais para a previs„o de evas„o para estudantes do ensino fundamental e mÈdio (sÈries finais), haja visto que a maior parte da evas„o acontece no inÌcio do ensino mÈdio. O presente projeto visa ent„o a construÁ„o de um arcabouÁo de atributos e verificaÁ„o quanto as melhores tÈcnicas para o desenvolvimento de um sistema automatizado de acompanhamento e alerta precoce quanto a alunos com risco de evas„o. Mais ainda, o trabalho envolve muita pesquisa em trabalhos anteriores e junto a instituiÁıes e estabelecimentos educacionais para a geraÁ„o de cartilhas e boas pr·ticas para que sejam possÌveis indicaÁıes de aÁıes a serem tomadas quanto aos atributos mais significativos a serem considerados para os casos de evas„o (o que fazer se a defasagem sÈrie/idade for um fator preponderante para a evas„o? E se for a alta concentraÁ„o de possÌveis evadidos em uma determinada escola?).. 
+SituaÁ„o: Em andamento; Natureza: Pesquisa.  
+Integrantes: José Ahirton Batista Lopes Filho / Ismar Frango Silveira.
+
+* 2 - 2017 - 2018 - Uma investigaÁ„o sobre a auto-organizaÁ„o em um enxame de VANTs
+DescriÁ„o: Os veÌculos aÈreos n„o tripulados (UAVs, do inglÍs, Unmanned Aerial Vehicles) pequenos e de baixo custo, muitas vezes chamados de Micro UAVs, possibilitam uma sÈrie de aplicaÁıes, o que representa uma grande motivaÁ„o para a realizaÁ„o de pesquisas que buscam a navegaÁ„o autÙnoma em diferentes cen·rios. As aplicaÁıes de UAVs autÙnomos s„o as mais diversas e incluem a detecÁ„o de alvos, escolta de objetos e alvos, vigil‚ncia, coleta de dados, planejamento de caminhos, monitoramento de ambientes, redes din‚micas de telecomunicaÁıes e o auxÌlio ao resgate de pessoas em desastres. Seja qual for a aplicaÁ„o, um dos principais desafios impostos È a definiÁ„o de mÈtodos e algoritmos que buscam a navegaÁ„o autÙnoma imposta pelos mais diversos ambientes e objetivos. Na literatura È possÌvel encontrar diversas propostas que buscam transpor esse desafio, em especial aqueles relacionados a m˙ltiplos UAVs operando em conjunto. Neste projeto, tarefas de navegaÁ„o fundamentais como pouso, decolagem e impedimento de colis„o ser„o a base para aplicaÁ„o de mÈtodos mais sofisticados que buscam a interaÁ„o entre m˙ltiplos UAVs na realizaÁ„o de determinados objetivos. O enfoque reside na construÁ„o de algoritmos e mÈtodos baseados no comportamento coletivo e social de revoada de p·ssaros, onde cada UAV corresponde a um p·ssaro.. 
+SituaÁ„o: ConcluÌdo; Natureza: Pesquisa. 
+Alunos envolvidos: GraduaÁ„o: (1) / Doutorado: (2) . 
+Integrantes: JosÈ Ahirton Batista Lopes Filho - Integrante / de Castro, Leandro Nunes - Coordenador / Carlos Candido de Oliveira Junior - Integrante / Ellias Matheus Braga e Silva - Integrante / Larissa Nami Fujimori Dozono - Integrante.
+Financiador(es): Mackpesquisa - AuxÌlio financeiro.
+N˙mero de produÁıes C, T & A: 1
+
+* 3 - 2016 - 2017 - Desenvolvimento de RecomendaÁ„o Inteligente para a Enjoei.com.br
+DescriÁ„o: O objetivo do projeto È o desenvolvimento de algoritmos de recomendaÁ„o inteligente para a loja virtual da Enjoei.com.br. O entreg·vel final do projeto È um protÛtipo funcional desenvolvido em uma linguagem de prototipaÁ„o adequada a um desenvolvimento ·gil pela empresa. Esse protÛtipo ser· testado, validado e recodificado pela empresa, devendo apresentar nÌvel de performance quando do teste em uma base de dados com volume real.. 
+SituaÁ„o: ConcluÌdo; Natureza: Desenvolvimento. 
+Alunos envolvidos: Mestrado acadÍmico: (1) Doutorado: (1) . 
+Integrantes: JosÈ Ahirton Batista Lopes Filho - Integrante / de Castro, Leandro Nunes - Coordenador / AndrÈ Luiz Vizine - Integrante / Rafael Martins dos Santos - Integrante.
+
+* 4 - 2016 - 2017 - Gest„o de Dados e Tecnologia AnalÌtica Aplicada a Textos
+DescriÁ„o: Este projeto envolve o desenvolvimento de uma soluÁ„o de gest„o de dados capaz de integrar dados de diferentes formatos (pptx, docx, txt, pdf, xlsx, etc.) e diferentes tipos (mÌdias sociais e imprensa) em uma ferramenta indexadora e de busca sem‚ntica. AlÈm disso, o projeto envolve o desenvolvimento de um dashboard analÌtico capaz de extrair informaÁıes estratÈgicas dos dados, como sentimento (positivo, negativo e neutro), e diversos tipos de classificaÁıes... 
+SituaÁ„o: ConcluÌdo; Natureza: Desenvolvimento. 
+Alunos envolvidos: Doutorado: (1) . 
+Integrantes: JosÈ Ahirton Batista Lopes Filho - Integrante / Rodrigo Pasti - Integrante / Leandro Nunes de Castro - Coordenador / Humberto Ribeiro de Souza - Integrante.
+
+* 5 - 2016 - 2017 - RecomendaÁ„o de Cargas a Caminhoneiros e Gest„o AnalÌtica de Dados
+DescriÁ„o: O objetivo do projeto È desenvolver uma soluÁ„o de recomendaÁ„o de cargas para caminhoneiros com base nas principais regras de negÛcio, como tempo de vida da carga, localizaÁ„o da carga e do caminhoneiro, histÛrico de navegaÁ„o do caminhoneiro, preferÍncia de regi„o do caminhoneiro, tipo de caminh„o e carroceria, forma de pagamento, dentre outras... 
+SituaÁ„o: ConcluÌdo; Natureza: Desenvolvimento. 
+Alunos envolvidos: Mestrado acadÍmico: (1) Doutorado: (1) . 
+Integrantes: JosÈ Ahirton Batista Lopes Filho - Integrante / Leandro Nunes de Castro - Coordenador / AndrÈ Luiz Vizine - Integrante / Rafael Martins dos Santos - Integrante.
+
+* 6 - 2014 - 2016 - ClassificaÁ„o de GÍnero em Dados do Twitter baseada na ExtraÁ„o de Meta-Atributos Textuais
+DescriÁ„o: Com o crescimento das mÌdias sociais nos ˙ltimos anos tem havido um interesse crescente na caracterizaÁ„o autom·tica dos usu·rios com base no conte˙do informal que eles geram. Neste contexto, a rotulaÁ„o dos usu·rios em categorias demogr·ficas tais como idade, etnia, origem e raÁa, bem como a investigaÁ„o de outros atributos inerentes aos usu·rios, como preferÍncias polÌticas, personalidade e express„o de gÍnero, tem recebido grande atenÁ„o, especialmente com base em dados do Twitter. A presente pesquisa centrou-se, mais especificamente, na tarefa de classificaÁ„o de gÍnero, propondo 65 meta-atributos textuais, comumente usados em tarefas de atribuiÁ„o de texto, para a extraÁ„o de caracterÌsticas linguÌsticas quanto ‡ express„o de gÍnero em tweets. S„o considerados caracteres, sintaxe, palavras, estrutura e morfologia, alÈm de determinados atributos psicolinguÌsticos, dos textos de comprimento curto, multi-gÍnero e de livre conte˙do postados no Twitter para a classificaÁ„o de gÍnero do autor por meio de diferentes algoritmos de aprendizado de m·quina. TambÈm È avaliada a influÍncia dos meta-atributos propostos para este processo.. 
+SituaÁ„o: ConcluÌdo; Natureza: Pesquisa. 
+Alunos envolvidos: Mestrado acadÍmico: (1) . 
+Integrantes: JosÈ Ahirton Batista Lopes Filho - Integrante / Rodrigo Pasti - Integrante / Leandro Nunes de Castro - Coordenador.
+Financiador(es): Conselho Nacional de Desenvolvimento CientÌfico e TecnolÛgico - Bolsa.
+N˙mero de produÁıes C, T & A: 2
+
+* 7 - 2012 - 2013 - A ContribuiÁ„o da RobÛtica Educacional como ferramenta cognitiva no contexto Ensino-aprendizagem
+DescriÁ„o: Desenvolvimento de estudo sobre a contribuiÁ„o cognitiva da RobÛtica Educacional em atividades no Ensino Superior, tendo em vista avali·-la quanto ao seu potencial como ferramenta pedagÛgica, a qual pode proporcionar a discentes de cursos de graduaÁ„o das ·reas tecnolÛgicas um ambiente de aprendizagem para que se possa desenvolver o raciocÌnio lÛgico, as tÈcnicas e lÛgicas de programaÁ„o, de modo a propiciar a aplicaÁ„o de tais habilidades em demais ·reas do conhecimento. A partir deste foco foi verificada, atravÈs de question·rios e atividades de manipulaÁ„o com um robÙ feito com um grupo de controle, a real qualidade do processo de ensino-aprendizagem proveniente da utilizaÁ„o da RobÛtica Educacional.. 
+SituaÁ„o: ConcluÌdo; Natureza: Pesquisa. 
+Integrantes: JosÈ Ahirton Batista Lopes Filho - Integrante / Will Ribamar Mendes Almeida - Coordenador / DÈbora Rodrigues Stefanello - Integrante.
+N˙mero de produÁıes C, T & A: 2
+
+* 8 - 2010 - 2012 - MediÁ„o de Fluxo RespiratÛrio Utilizando a TÈcnica de Fus„o de Dados
+DescriÁ„o: Com a evoluÁ„o da eletrÙnica e dos processos de mediÁ„o, existem hoje muitos sistemas capazes de realizar a mediÁ„o do fluxo respiratÛrio aÈreo. Para a mediÁ„o do fluxo de ar v·rios mÈtodos podem ser utilizados, tais como o mÈtodo de press„o diferencial atravÈs de um pneumotacÛgrafo e mÈtodos de mediÁ„o usando v·rios anemÙmetros. Neste trabalho foi projetado e desenvolvido um sistema de baixo custo capaz de medir o fluxo respiratÛrio utilizando a tÈcnica de fus„o de dados.. 
+SituaÁ„o: Desativado; Natureza: Pesquisa. 
+Integrantes: JosÈ Ahirton Batista Lopes Filho - Integrante / Will Ribamar Mendes Almeida - Coordenador.
+N˙mero de produÁıes C, T & A: 2
+
+* 9 - 2010 - 2012 - SisLog - Sistema de IdentificaÁ„o e LocalizaÁ„o de ‘nibus Urbanos
+DescriÁ„o: O projeto referiu-se a um sistema eletrÙnico (software e hardware) para detecÁ„o, identificaÁ„o e localizaÁ„o remota em tempo real de Ùnibus ou veÌculos que trafeguem regularmente pelo mesmo trajeto. O sistema detecta, reconhece e fornece as informaÁıes de localizaÁ„o de m˙ltiplos veÌculos atravÈs de rede sem fio (wifi) utilizando estaÁıes repetidoras (transponders) operando no padr„o de comunicaÁ„o IEEE 811.2 e canais de comunicaÁ„o exclusivos do sistema, alÈm de um computador servidor com banco de dados em tempo real. Desse modo, o sistema tornou-se r·pido e sem necessidade de gastos com operadoras de telefonia celular. Com relaÁ„o ‡ detecÁ„o, utilizou-se um transponder digital de baixo custo e que pode ser identificado por um cÛdigo ˙nico residente no referido equipamento. Toda vez que o veÌculo equipado com o transponder entrar na ·rea de cobertura, ele ser· detectado, seu cÛdigo reconhecido (identificaÁ„o) e em seguida, apÛs processamento de localizaÁ„o e consulta ao banco de dados, sua posiÁ„o ser· revelada (localizaÁ„o), tornando-a disponÌvel via web. Assim, desenvolveu-se um software para processamento dos dados capturados dos transponders a fim de calcular a localizaÁ„o do veÌculo sem a necessidade de gps, pois embora estes sejam bem precisos, sua utilizaÁ„o requer um sistema de comunicaÁ„o remota para que seus dados sejam levados ao computador de controle e neste projeto o prÛprio sistema de comunicaÁ„o pode ser usado para a localizaÁ„o, simplificando o sistema e reduzindo custo. AlÈm disso, o software desenvolvido disponibiliza a informaÁ„o da localizaÁ„o de um determinado veÌculo de uma linha de Ùnibus que esteja antes da parada de interesse do usu·rio do transporte. As consultas em relaÁ„o aos Ùnibus levaram em consideraÁ„o o n˙mero da linha e da parada onde o usu·rio se encontra e pode ser feita digitando essas informaÁıes em um site na internet, via aparelhos de telefonia celular com acesso a internet ou atravÈs de computadores mÛveis.. 
+SituaÁ„o: ConcluÌdo; Natureza: Pesquisa. 
+Alunos envolvidos: GraduaÁ„o: (3) . 
+Integrantes: JosÈ Ahirton Batista Lopes Filho - Integrante / Areolino de Almeida Neto - Coordenador / Marcos Tadeu Rezende de Ara˙jo - Integrante / Aline Porfiro Texeira - Integrante / Igor Silva Lindoso - Integrante.
+Financiador(es): Artec-AutomaÁ„o, Tecnologia, Controle, ComÈrcio e RepresentaÁ„o - AuxÌlio financeiro / FundaÁ„o de Amparo ‡ Pesquisa ao Desenvolv. CientÌfico e TecnolÛgico - MA - Bolsa.
+N˙mero de produÁıes C, T & A: 1
+
+* 10 - 2010 - 2011 - Desenvolvimento de um RobÙ MÛvel Multitarefa para a ConstruÁ„o de Kits de RobÛtica Educacional
+DescriÁ„o: O presente projeto tem como objetivo a implementaÁ„o de um robÙ mÛvel multitarefa de seis rodas, construÌdo com lixo eletrÙnico e materiais de f·cil obtenÁ„o, para a viabilizaÁ„o de kits educacionais a serem empregados no ensino da robÛtica em instituiÁıes de nÌveis mÈdios e superiores.. 
+SituaÁ„o: ConcluÌdo; Natureza: Desenvolvimento. 
+Integrantes: JosÈ Ahirton Batista Lopes Filho - Coordenador / Will Ribamar Mendes Almeida - Integrante.
+N˙mero de produÁıes C, T & A: 2
+
+* 11 - 2010 - 2010 - Algoritmo de An·lise da Sustentabilidade de Sistemas Urbanos
+DescriÁ„o: Projeto e desenvolvimento de algoritmo o qual, a partir da metodologia proposta por ODUM, È utilizado de modo a avaliar a sustentabilidade de sistemas urbanos. Foram utilizadas tecnologias de banco de dados, programaÁ„o web e geoprocessamento.. 
+SituaÁ„o: ConcluÌdo; Natureza: Pesquisa. 
+Alunos envolvidos: GraduaÁ„o: (1) . 
+Integrantes: JosÈ Ahirton Batista Lopes Filho - Integrante / Fernando Jorge DemÈtrio - Coordenador.
+N˙mero de produÁıes C, T & A: 2
+
+* 12 - 2009 - 2010 - Desenvolvimento de um Simulador Computacional para PoÁos de PetrÛleo com MÈtodo de elevaÁ„o artificial por Gas-Lift Intermitente
+DescriÁ„o: Projeto que visou o desenvolvimento de um software capaz de fazer a simulaÁ„o numÈrica otimizada de poÁos de petrÛleo que operam com elevaÁ„o artificial por Gas Lift Intermitente (GLI), onde g·s a alta press„o È injetado no poÁo de modo intermitente (operaÁ„o em ciclos) para fornecer o suplemento de energia necess·rio ‡ elevaÁ„o dos fluidos do reservatÛrio atÈ ‡ superfÌcie.. 
+SituaÁ„o: Desativado; Natureza: Pesquisa. 
+Alunos envolvidos: GraduaÁ„o: (2) . 
+Integrantes: JosÈ Ahirton Batista Lopes Filho - Coordenador / Anderson Maia de Lima Carvalho - Integrante / L˙cio Fl·vio de Albuquerque Campos - Integrante.
+N˙mero de produÁıes C, T & A: 2
+
+* 13 - 2008 - 2010 - Algoritmo de Clustering para Aprendizagem Colaborativa Web Considerando Fatores SÛcio-Afetivos
+DescriÁ„o: Com o advento da Internet e o desenvolvimento das tecnologias de informaÁ„o e comunicaÁ„o (TICs), houve um crescimento na utilizaÁ„o da aprendizagem colaborativa, onde fatores sÛcio-afetivos, como cooperaÁ„o, motivaÁ„o, afinidades sÛcio-cognitivas e interaÁ„o desempenham um importante papel. Ainda, vÍ-se a import‚ncia de um mecanismo para auxiliar na construÁ„o de grupos de aprendizagem colaborativos apoiados por computador, visto que em atividades colaborativas de aprendizagem, as habilidades sÛcio-afetivas de um indivÌduo precisam ser conjugadas com as de outros, a fim de obterem maior Íxito em um trabalho coletivo. Entretanto, enquanto muitos mostram a import‚ncia de considerar esses fatores sÛcio-afetivos em atividades colaborativas de aprendizagem, poucos ambientes educacionais colaborativos est„o ativos e dentre estes poucos s„o plenamente funcionais ou de conhecimento p˙blico. Portanto, este projeto veio propor a utilizaÁ„o de inferÍncias de fatores sÛcio-afetivos, tais como Personalidade e LideranÁa, em uma ferramenta computacional pedagÛgica, baseada em Algoritmo de Clustering, a qual atuou na formaÁ„o de grupos de alunos afins (com caracterÌsticas sÛcio-afetivas similares) ou antitÈticos (caracterÌsticas opostas), tendo em vista a interaÁ„o colaborativa, e posteriores estudos quando da utilizaÁ„o de tais grupos distintos nas tarefas de ensino-aprendizagem.. 
+SituaÁ„o: ConcluÌdo; Natureza: Pesquisa. 
+Alunos envolvidos: GraduaÁ„o: (1) . 
+Integrantes: JosÈ Ahirton Batista Lopes Filho - Integrante / CÌcero Costa Quarto - Coordenador / Romulo Martins FranÁa - Integrante / Ivanildo Silva Abreu - Integrante.
+Financiador(es): Universidade Estadual do Maranh„o - Bolsa.
+N˙mero de produÁıes C, T & A: 18
+
 ### <a href="" target="_blank">2018-11-27 -  (pt-br)</a>
 
 Abstract:
