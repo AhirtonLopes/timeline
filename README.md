@@ -349,19 +349,33 @@ _Tags: `machine learning`, `data science`, `data science and AI education`, `KNN
 
 <a href="meetup.com/pt-BR/iMasters/events/260476828/" target="_blank">7Masters em Plataformas Cognitivas - Microsoft Bot Framework</a>
 
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+<a href="" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-17-04-7Masters_Plataformas_Cognitivas" target="_blank">photos</a>
 
 Abstract:
 
-> Gave a talk about "Microsoft Bot Framework" and its acapabilities as a cognitive plataform for chatbot development. Won the prize as one the 7Masters in Cognitive Pltaforms (sponsored by iMasters - https://imasters.com.br/ .
+> Gave a talk about "Microsoft Bot Framework" and its acapabilities as a cognitive plataform for chatbot development. Won the prize as one the 7 Masters in Cognitive Pltaforms (sponsored by iMasters - https://imasters.com.br/) .
 >
 > 
 
-_Tags: ``, ``, ``, ``, ``, ``_
+_Tags: `microsoft`, `microsoft bot framework`, `cognitive plataform`, `chatbot`, `development`, `7masters`_
 
-### 2019-06- - -  (pt-br)
+### 2019-10-04 - Meetup AI Brasil em SP #17 -  (pt-br)
 
-<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/261837757/" target="_blank">Meetup AI Brasil em SP #18</a>
+
+<a href="">slides and demos</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-10-04-Meetup_AI_Brasil_17" target="_blank">photos</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: 
+
+### 2019-09-04 - IBM Bluetalks - Artficial Intelligence & Machine learning  (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/bluetalks/events/260093563/" target="_blank">IBM Bluetalks - Artficial Intelligence & Machine learning</a>
 
 <a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
 
@@ -373,131 +387,19 @@ Abstract:
 
 _Tags: ``, ``, ``, ``, ``, ``_
 
-### 2019-06- - -  (pt-br)
+### 2019-07-05 - Aula School of AI SP #7 -  (pt-br)
 
-<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #7 </a>
 
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
-
-Abstract:
-
-> .
->
-> 
-
-_Tags: ``, ``, ``, ``, ``, ``_
-
-### 2019-06- - -  (pt-br)
-
-<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
-
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=K13GeZB1gUE" target="_blank">video - 1</a> |  <a href="https://www.youtube.com/watch?v=rM-WeCksjws" target="_blank">video - 2</a> 
 
 Abstract:
 
-> .
+> 7th School of AI SP class. Intro to K Nearest Neighbor and K-Means algorithms.
 >
 > 
 
-_Tags: ``, ``, ``, ``, ``, ``_
-
-### 2019-06- - -  (pt-br)
-
-<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
-
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
-
-Abstract:
-
-> .
->
-> 
-
-_Tags: ``, ``, ``, ``, ``, ``_
-
-### 2019-06- - -  (pt-br)
-
-<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
-
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
-
-Abstract:
-
-> .
->
-> 
-
-_Tags: ``, ``, ``, ``, ``, ``_
-
-### 2019-06- - -  (pt-br)
-
-<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
-
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
-
-Abstract:
-
-> .
->
-> 
-
-_Tags: ``, ``, ``, ``, ``, ``_
-
-### 2019-06- - -  (pt-br)
-
-<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
-
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
-
-Abstract:
-
-> .
->
-> 
-
-_Tags: ``, ``, ``, ``, ``, ``_
-
-### 2019-06- - -  (pt-br)
-
-<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
-
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
-
-Abstract:
-
-> .
->
-> 
-
-_Tags: ``, ``, ``, ``, ``, ``_
-
-### 2019-06- - -  (pt-br)
-
-<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
-
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
-
-Abstract:
-
-> .
->
-> 
-
-_Tags: ``, ``, ``, ``, ``, ``_
-
-### 2019-06- - -  (pt-br)
-
-<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
-
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
-
-Abstract:
-
-> .
->
-> 
-
-_Tags: ``, ``, ``, ``, ``, ``_
+_Tags: `machine learning`, `data science`, `data science and AI education`, `KNN`, `K-Means`, `open classes`_
 
 ## Papers and Blogposts
 
