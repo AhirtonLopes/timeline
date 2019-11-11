@@ -362,7 +362,7 @@ Abstract:
 
 _Tags: `microsoft`, `microsoft bot framework`, `cognitive plataform`, `chatbot`, `development`, `7masters`_
 
-### 2019-10-04 - Meetup AI Brasil em SP #17 -  (pt-br)
+### 2019-10-04 - Meetup AI Brasil em SP #17 - Do Big ao Better Data, quais os desafios em Inteligência Artificial atualmente? (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/ai-brasil/events/261837757/" target="_blank">Meetup AI Brasil em SP #18</a>
 
@@ -370,25 +370,25 @@ _Tags: `microsoft`, `microsoft bot framework`, `cognitive plataform`, `chatbot`,
 
 Abstract:
 
-> .
+> Artificial intelligence (AI) is a multidisciplinary field of science whose goal is to create intelligent machines; More specifically, AI is a force multiplier in technological progress in view of our increasingly digital and data-driven world. This short presentation was intended to demonstrate some of the exponential progress in current AI with a focus on the latest developments such as Transfer Learning, Real Scene Understanding, Deep Reinforcement Learning and more, in a fully understandable and easy way.
 >
 > 
 
-_Tags: 
+_Tags: `machine learning`, `data science`, `deep learning`, `autoencoders`, `CNNs`, `RNNs`, `LSTMs`_
 
-### 2019-09-04 - IBM Bluetalks - Artficial Intelligence & Machine learning  (pt-br)
+### 2019-09-04 - IBM Bluetalks - Data Science e Inteligência Artificial - Desafios em Inteligência Artificial (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/bluetalks/events/260093563/" target="_blank">IBM Bluetalks - Artficial Intelligence & Machine learning</a>
 
-<a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
+<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-do-big-ao-better-data" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-09-04-IBM_Bluetalks" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
 
 Abstract:
 
-> .
+> Participated in a big IBM Bluetalks event together with <a href="https://www.linkedin.com/in/sergiogama/" target="_blank">Sergio Gama (IBM)</a>, <a href="https://www.linkedin.com/in/fabio-gandour-1a4305143/" target="_blank">Fabio Gandour</a> and <a href="https://www.linkedin.com/in/romeo-kienzler-089b4557/" target="_blank">Romeo Kienzler (IBM)</a> discussing the future of AI and machine learning such as latest techniques, frmeworks and much more.
 >
 > 
 
-_Tags: ``, ``, ``, ``, ``, ``_
+_Tags: `data science`, `artificial intelligence`, `deep learning`, `bluetalks`, `IBM`_
 
 ### 2019-07-05 - Aula School of AI SP #7 -  (pt-br)
 
