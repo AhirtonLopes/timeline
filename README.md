@@ -487,17 +487,30 @@ Event and proceedings (IEEE):
 
 ## Videos and Podcasts
 
-### <a href="" target="_blank">2018-12-14 - Demo -  (pt-br)</a>
-
-
-Abstract:
-
-> . 
-> 
-> 
-
-
-_Tags: ``, ``, ``, ``_
+1 - https://www.youtube.com/watch?v=fDgEZezYP7Y& - 05/11/2019 (School of AI SP #22)
+2 - https://www.youtube.com/watch?v=fDgEZezYP7Y& - 24/09/2019 (School of AI SP #20)
+3 - https://www.youtube.com/watch?v=F3v7PDjgnw4 - 27/08/2019 (School of AI SP #18)
+4 - https://www.youtube.com/watch?v=OqXnlP5SpkI - 18/06/2019 (School of AI #13)
+5 - https://youtu.be/sf-8RGfz8iU - 07/06/2019 (AI Brasil SP #19)
+6 - https://www.youtube.com/watch?v=OMlH8NArxB0 - 06/06/2019 (AI Brasil em SP #18) 
+7 - https://www.youtube.com/watch?v=Oq3HY7Pvh_k - 18/05/2019 (Big Data Brazil Experience 2019) 
+8 - https://www.youtube.com/watch?v=K13GeZB1gUE&t=12s - 07/05/2019 (School of AI #10) 
+9 - https://www.youtube.com/watch?v=za7bF6llG1w&list=PLCPYa0EFe0yvXppru3k1AtPToHxJpq6SZ&index=6 
+10 - https://www.youtube.com/watch?v=8YD_t20XAq8 - 30/01/2019 (Entrevista para o webshow The Velopers do iMasters) 
+11 - https://www.youtube.com/watch?v=u_W7IxQl0jw&list=PLCPYa0EFe0yvXppru3k1AtPToHxJpq6SZ - 15/01/2019 (School of AI #4) - 
+12 - https://www.youtube.com/watch?v=wX0ZvPmpvcM&list=PLCPYa0EFe0yudPExpk2BdW_JxvBNgWh9A&index=4 - 21/11/2018 (School of AI #2)
+13 - https://www.youtube.com/watch?v=97sJJEYdPFY - 31/10/2018 (GDG Campinas DataFest 2018) 
+14 - https://www.youtube.com/watch?v=JBZXHLEuabk&list=PLCPYa0EFe0yudPExpk2BdW_JxvBNgWh9A - 03/10/2018 (School of AI #1)
+15 - https://www.youtube.com/watch?v=iyJe8cCq0bk - 21/06/2018 (PAPIs.io LATAM 2018 - in english) 
+16 - https://www.youtube.com/watch?v=Ml0vpkDZNek - 18/06/2018 (Quarto vÌdeo do mini curso "IA para Devs" no canal da AI Brasil) 
+17 - https://www.youtube.com/watch?v=yAVxB4kTtaw - 01/06/2018 (Terceiro vÌdeo do mini curso "IA para Devs" no canal da AI Brasil) 
+18 - https://www.youtube.com/watch?v=Wcg_YYBfpkU - 19/05/2018 (Segundo vÌdeo do mini curso "IA para Devs" no canal da AI Brasil) 
+19 - https://www.youtube.com/watch?v=nfXkktaO4Hc - 11/05/2018 (AI Brasil em SP #8) 
+20 - https://www.youtube.com/watch?v=dDC6TmFYiFQ - 02/05/2018 (Primeiro vÌdeo do mini curso "IA para Devs" no canal da AI Brasil) 
+21 - https://www.youtube.com/watch?v=L4elEN90A5o&fbclid=IwAR3WVrfXrIxn1-uqDVn4QHU3zloLgqnIzMo6_6LO0vL7a3E5SQ-IHymaunE - 05/04/2018 (#17 CEL Live)
+22 - https://www.youtube.com/watch?v=XE3C4RLkpCI - 18/12/2017 (FullTurismo - 2∞ encontro - Inteligência Artificial, Chatbots, Deep Learning
+23 - https://www.youtube.com/watch?v=29bKaRTibe8 - 10/07/2017 (Demonstração da Pesquisa An investigation into self-organization in a swarm of UAVs no V Workshop de Matemática da Mackenzie)
+24 - https://player.theplatform.com/p/XGTzKC/uL34BRcbp1K7/select/iz_LBHd1NEDu?autoPlay=true&t=23 - (Demonstração da Pesquisa An investigation into self-organization in a swarm of UAVs para matÈria do History Channel)
 
 ## Demonstrations and Open Classes
 
