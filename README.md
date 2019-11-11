@@ -656,13 +656,12 @@ Alunos envolvidos: GraduaÁ„o: (2) .
 Integrantes: JosÈ Ahirton Batista Lopes Filho - Coordenador / Anderson Maia de Lima Carvalho - Integrante / L˙cio Fl·vio de Albuquerque Campos - Integrante.
 N˙mero de produÁıes C, T & A: 2
 
-* 13 - 2008 - 2010 - Algoritmo de Clustering para Aprendizagem Colaborativa Web Considerando Fatores SÛcio-Afetivos
-DescriÁ„o: Com o advento da Internet e o desenvolvimento das tecnologias de informaÁ„o e comunicaÁ„o (TICs), houve um crescimento na utilizaÁ„o da aprendizagem colaborativa, onde fatores sÛcio-afetivos, como cooperaÁ„o, motivaÁ„o, afinidades sÛcio-cognitivas e interaÁ„o desempenham um importante papel. Ainda, vÍ-se a import‚ncia de um mecanismo para auxiliar na construÁ„o de grupos de aprendizagem colaborativos apoiados por computador, visto que em atividades colaborativas de aprendizagem, as habilidades sÛcio-afetivas de um indivÌduo precisam ser conjugadas com as de outros, a fim de obterem maior Íxito em um trabalho coletivo. Entretanto, enquanto muitos mostram a import‚ncia de considerar esses fatores sÛcio-afetivos em atividades colaborativas de aprendizagem, poucos ambientes educacionais colaborativos est„o ativos e dentre estes poucos s„o plenamente funcionais ou de conhecimento p˙blico. Portanto, este projeto veio propor a utilizaÁ„o de inferÍncias de fatores sÛcio-afetivos, tais como Personalidade e LideranÁa, em uma ferramenta computacional pedagÛgica, baseada em Algoritmo de Clustering, a qual atuou na formaÁ„o de grupos de alunos afins (com caracterÌsticas sÛcio-afetivas similares) ou antitÈticos (caracterÌsticas opostas), tendo em vista a interaÁ„o colaborativa, e posteriores estudos quando da utilizaÁ„o de tais grupos distintos nas tarefas de ensino-aprendizagem.. 
-SituaÁ„o: ConcluÌdo; Natureza: Pesquisa. 
-Alunos envolvidos: GraduaÁ„o: (1) . 
-Integrantes: JosÈ Ahirton Batista Lopes Filho - Integrante / CÌcero Costa Quarto - Coordenador / Romulo Martins FranÁa - Integrante / Ivanildo Silva Abreu - Integrante.
-Financiador(es): Universidade Estadual do Maranh„o - Bolsa.
-N˙mero de produÁıes C, T & A: 18
+* 13 - 2008 - 2010 - Algoritmo de Clustering para Aprendizagem Colaborativa Web Considerando Fatores Sócio-Afetivos
+Descrição: Com o advento da Internet e o desenvolvimento das tecnologias de informação e comunicação (TICs), houve um crescimento na utilização da aprendizagem colaborativa, onde fatores sócio-afetivos, como cooperação, motivação, afinidades sócio-cognitivas e interação desempenham um importante papel. Ainda, vê-se a importância de um mecanismo para auxiliar na construção de grupos de aprendizagem colaborativos apoiados por computador, visto que em atividades colaborativas de aprendizagem, as habilidades sócio-afetivas de um indivíduo precisam ser conjugadas com as de outros, a fim de obterem maior êxito em um trabalho coletivo. Entretanto, enquanto muitos mostram a importância de considerar esses fatores sócio-afetivos em atividades colaborativas de aprendizagem, poucos ambientes educacionais colaborativos estão ativos e, dentre estes, poucos ão plenamente funcionais ou de conhecimento público. Portanto, este projeto veio propor a utilização de inferências de fatores sócio-afetivos, tais como Personalidade e Liderança, em uma ferramenta computacional pedagógica, baseada em Algoritmo de Clustering, a qual atuou na formação de grupos de alunos afins (com características sócio-afetivas similares) ou antitéticos (características opostas), tendo em vista a interação colaborativa, e posteriores estudos quando da utilização de tais grupos distintos nas tarefas de ensino-aprendizagem.. 
+Situação: Concluída; Natureza: Pesquisa.  
+Integrantes: José Ahirton Batista Lopes Filho - Integrante / Cícero Costa Quarto - Coordenador / Rômulo Martins França - Integrante
+Financiador(es): Universidade Estadual do Maranhão - Bolsa.
+Número de produções C, T & A: 18
 
 ### <a href="" target="_blank">2018-11-27 -  (pt-br)</a>
 
