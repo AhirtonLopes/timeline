@@ -443,11 +443,11 @@ Event:
 
 Event:
 
-> <a href="" target="_blank">19º Congresso Internacional ABED de Educação a Distância - Salvador - BA</a>
+> <a href="http://www.abed.org.br/congresso2013/files/home.html" target="_blank">19º Congresso Internacional ABED de Educação a Distância - Salvador - BA</a>
 
 ### <a href="https://www.researchgate.net/publication/327079169_Mineracao_de_dados_para_auxilio_na_divisao_de_grupos_socio-afetivos_levando_em_conta_o_fator_afinidade_social" target="_blank">2013-August - Bachelors Dissertation (BSc.) in Computer Engineering - Mineração de dados para auxílio na divisão de grupos sócio-afetivos levando em conta o fator afinidade social (pt-br)</a>
 
-BSc. in Computer Engineering by wya of Universidade Estadual do Maranhão (UEMA):
+BSc. in Computer Engineering by way of Universidade Estadual do Maranhão (UEMA):
 
 > <a href="https://www.uema.br/" target="_blank">Universidade Estadual do Maranhão - São Luís - MA</a>
 
