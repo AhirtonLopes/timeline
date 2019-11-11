@@ -14,6 +14,9 @@ Linkedin:  [br.linkedin.com/in/ahirton](http://br.linkedin.com/in/ahirton)
 Github:  [github.com/ahirtonlopes](https://github.com/AhirtonLopes)  
 Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)  
 
+Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" target="_blank">The Velopers #25 - Ahirton Lopes</a> (pt-br)
+
+
 ### Contributions Summary
 
 * **Conference and Meetup Talks**: 2019/November - 2018/April
