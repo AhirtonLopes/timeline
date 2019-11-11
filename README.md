@@ -415,6 +415,10 @@ Event:
 
 ### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2017-December - Game Development course - PhD Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
 
+### <a href="https://medium.com/brasil-ai/o-que-voc%C3%AA-espera-da-sua-pr%C3%B3xima-intera%C3%A7%C3%A3o-com-um-rob%C3%B4-f9f63395d9ab" target="_blank">2017-September - medium.com text @AI Brasil - https://medium.com/brasil-ai/ — O que você espera da sua próxima interação com um robô? (pt-br)</a>
+
+### <a href="https://chatbotslife.com/what-do-you-expect-from-your-next-interaction-with-a-robot-580c07a41bf1" target="_blank">2017-September - medium.com text @ChatbotsLife - https://chatbotslife.com/ — What do you expect from your next interaction with a robot? (en-us)</a>
+
 ### <a href="https://www.researchgate.net/publication/293794120_Gender_Classification_of_Twitter_Data_Based_on_Textual_Meta-Attributes_Extraction" target="_blank">2016-March - Dissertation Paper - MSc. Degree — Gender Classification of Twitter Data Based on Textual Meta-Attributes Extraction (en-us)</a>
 
 Event:
