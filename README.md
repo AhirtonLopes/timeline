@@ -35,7 +35,7 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
 - [Projects (13)](#projects)
 - [Scholarships (03)](#scholarships)
-- [Prizes(13)](#prizes)
+- [Prizes(13)](#prizes-and-academic-achievements)
 
 ## Conference and Meetup Talks
 
@@ -536,13 +536,9 @@ Event and proceedings (IEEE):
 * 2 - https://www.youtube.com/watch?v=fDgEZezYP7Y& - 24/09/2019 (School of AI SP #20)
 * 3 - https://www.youtube.com/watch?v=F3v7PDjgnw4 - 27/08/2019 (School of AI SP #18)
 * 4 - https://www.youtube.com/watch?v=OqXnlP5SpkI - 18/06/2019 (School of AI #13)
-
 * 5 - https://youtu.be/sf-8RGfz8iU - 07/06/2019 (AI Brasil SP #19)
-
 * 6 - https://www.youtube.com/watch?v=OMlH8NArxB0 - 06/06/2019 (AI Brasil em SP #18) 
-
 * 7 - https://www.youtube.com/watch?v=Oq3HY7Pvh_k - 18/05/2019 (Big Data Brazil Experience 2019) 
-
 * 8 - https://www.youtube.com/watch?v=K13GeZB1gUE&t=12s - 07/05/2019 (School of AI #10) 
 * 9 - https://www.youtube.com/watch?v=za7bF6llG1w&list=PLCPYa0EFe0yvXppru3k1AtPToHxJpq6SZ&index=6 
 * 10 - https://www.youtube.com/watch?v=8YD_t20XAq8 - 30/01/2019 (Entrevista para o webshow The Velopers do iMasters) 
@@ -562,18 +558,6 @@ Event and proceedings (IEEE):
 * 24 - https://player.theplatform.com/p/XGTzKC/uL34BRcbp1K7/select/iz_LBHd1NEDu?autoPlay=true&t=23 - (Demonstração da Pesquisa An investigation into self-organization in a swarm of UAVs para matÈria do History Channel)
 
 ## Demonstrations and Open Classes
-
-### <a href="" target="_blank">2018-12-14 - Demo -  (pt-br)</a>
-
-
-Abstract:
-
-> . 
-> 
-> 
-
-
-_Tags: ``, ``, ``, ``_
 
 ## Projects
 
@@ -662,20 +646,6 @@ Situação: Concluída; Natureza: Pesquisa.
 Integrantes: José Ahirton Batista Lopes Filho - Integrante / Cícero Costa Quarto - Coordenador / Rômulo Martins França - Integrante
 Financiador(es): Universidade Estadual do Maranhão - Bolsa.
 Número de produções C, T & A: 18
-
-### <a href="" target="_blank">2018-11-27 -  (pt-br)</a>
-
-Abstract:
-
-> .
-> 
-> <b>Links</b>
-> 
-> - <a href="" target="_blank">https://</a>
-> - <a href="" target="_blank">https://</a>
-> 
-
-_Tags: `training`, `online`, `nodejs`, `javascript`, `iniciantes`, `docker`_
 
 ## Scholarships
 
