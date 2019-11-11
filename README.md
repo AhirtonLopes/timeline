@@ -31,7 +31,7 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 
 - [Conference and Meetup Talks (50)](#conference-and-meetup-talks)
 - [Papers and Blogposts (19)](#papers-and-blogposts)
-- [Videos and Podcasts (24)](#videos-and-podcasts)
+- [Videos and Podcasts (25)](#videos-and-podcasts)
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
 - [Projects (13)](#projects)
 - [Scholarships (03)](#scholarships)
@@ -554,25 +554,26 @@ Event and proceedings (IEEE):
 * 20 - https://www.youtube.com/watch?v=dDC6TmFYiFQ - 02/05/2018 (Primeiro vÌdeo do mini curso "IA para Devs" no canal da AI Brasil) 
 * 21 - https://www.youtube.com/watch?v=L4elEN90A5o&fbclid=IwAR3WVrfXrIxn1-uqDVn4QHU3zloLgqnIzMo6_6LO0vL7a3E5SQ-IHymaunE - 05/04/2018 (#17 CEL Live)
 * 22 - https://www.youtube.com/watch?v=XE3C4RLkpCI - 18/12/2017 (FullTurismo - 2∞ encontro - Inteligência Artificial, Chatbots, Deep Learning
-* 23 - https://www.youtube.com/watch?v=29bKaRTibe8 - 10/07/2017 (Demonstração da Pesquisa An investigation into self-organization in a swarm of UAVs no V Workshop de Matemática da Mackenzie)
-* 24 - https://player.theplatform.com/p/XGTzKC/uL34BRcbp1K7/select/iz_LBHd1NEDu?autoPlay=true&t=23 - (Demonstração da Pesquisa An investigation into self-organization in a swarm of UAVs para matÈria do History Channel)
+* 23 - https://podtail.se/podcast/cafe-debug-seu-podcast-de-tecnologia/-15-machine-learning-entrevista-com-ahirton-lopes/ - 22/11/2017 (Podcast café debug #15 Machine Learning entrevista com Ahirton Lopes)
+* 24 - https://www.youtube.com/watch?v=29bKaRTibe8 - 10/07/2017 (Demonstração da Pesquisa An investigation into self-organization in a swarm of UAVs no V Workshop de Matemática da Mackenzie)
+* 25 - https://player.theplatform.com/p/XGTzKC/uL34BRcbp1K7/select/iz_LBHd1NEDu?autoPlay=true&t=23 - (Demonstração da Pesquisa An investigation into self-organization in a swarm of UAVs para matÈria do History Channel)
 
 ## Demonstrations and Open Classes
 
 ## Projects
 
 * 1 - 2019 - Atual - A Method for Early Detection of Students at Dropout Risk Using Administrative Data and Machine Learning
-DescriÁ„o: A existÍncia de um EDS (early detection system, ou sistema de detecÁ„o precoce) pode oferecer um importante ponto de partida para a pesquisa em evas„o bem como oferecer insights importantes para a administraÁ„o de instituiÁıes de ensino e pode servir de base para futuras intervenÁıes e construÁ„o de polÌticas e boas pr·ticas para a reduÁ„o no n˙mero de estudantes evadidos. Podem, portanto, servir de apoio a processos decisÛrios estratÈgicos, t·ticos e operacionais das instituiÁıes. Os EDS ent„o, em sua grande maioria, s„o desenvolvidos de modo a ter observaÁ„o regular de tais indicadores especÌficos tendo em vista acompanhamento do desempenho escolar dos alunos antes de desistirem. Nos ˙ltimos anos, o esforÁo para se criar sistemas EDS mais assertivos para contextos educacionais aumentou e, atualmente, existem alguns exemplos de EDS implementados em diferentes paÌses. Assim sendo, vislumbramos a possibilidade de atacar o problema de detecÁ„o de alunos em risco por meio de classificadores tais como ¡rvores de Decis„o, SVMs e Redes Neurais para a previs„o de evas„o para estudantes do ensino fundamental e mÈdio (sÈries finais), haja visto que a maior parte da evas„o acontece no inÌcio do ensino mÈdio. O presente projeto visa ent„o a construÁ„o de um arcabouÁo de atributos e verificaÁ„o quanto as melhores tÈcnicas para o desenvolvimento de um sistema automatizado de acompanhamento e alerta precoce quanto a alunos com risco de evas„o. Mais ainda, o trabalho envolve muita pesquisa em trabalhos anteriores e junto a instituiÁıes e estabelecimentos educacionais para a geraÁ„o de cartilhas e boas pr·ticas para que sejam possÌveis indicaÁıes de aÁıes a serem tomadas quanto aos atributos mais significativos a serem considerados para os casos de evas„o (o que fazer se a defasagem sÈrie/idade for um fator preponderante para a evas„o? E se for a alta concentraÁ„o de possÌveis evadidos em uma determinada escola?).. 
-SituaÁ„o: Em andamento; Natureza: Pesquisa.  
+Descrição: A existência de um EDS (early detection system, ou sistema de detecção precoce) pode oferecer um importante ponto de partida para a pesquisa em evasão bem como oferecer insights importantes para a administração de instituições de ensino e pode servir de base para futuras intervenções e construção de políticas públicas e boas práticas para a redução no número de estudantes evadidos. Podem, portanto, servir de apoio a processos decisórios estratégicos, táticos e operacionais das instituições. Os EDS enão, em sua grande maioria, ão desenvolvidos de modo a ter observação regular de tais indicadores específicos tendo em vista acompanhamento do desempenho escolar dos alunos antes de desistirem. Nos últimos anos, o esforço para se criar sistemas EDS mais assertivos para contextos educacionais aumentou e, atualmente, existem alguns exemplos de EDS implementados em diferentes paÌses. Assim sendo, vislumbramos a possibilidade de atacar o problema de detecÁ„o de alunos em risco por meio de classificadores tais como ¡rvores de Decis„o, SVMs e Redes Neurais para a previs„o de evas„o para estudantes do ensino fundamental e mÈdio (sÈries finais), haja visto que a maior parte da evas„o acontece no inÌcio do ensino mÈdio. O presente projeto visa ent„o a construÁ„o de um arcabouÁo de atributos e verificaÁ„o quanto as melhores tÈcnicas para o desenvolvimento de um sistema automatizado de acompanhamento e alerta precoce quanto a alunos com risco de evas„o. Mais ainda, o trabalho envolve muita pesquisa em trabalhos anteriores e junto a instituiÁıes e estabelecimentos educacionais para a geraÁ„o de cartilhas e boas pr·ticas para que sejam possÌveis indicaÁıes de aÁıes a serem tomadas quanto aos atributos mais significativos a serem considerados para os casos de evas„o (o que fazer se a defasagem sÈrie/idade for um fator preponderante para a evas„o? E se for a alta concentraÁ„o de possÌveis evadidos em uma determinada escola?).. 
+Situação: Em andamento; Natureza: Pesquisa.  
 Integrantes: José Ahirton Batista Lopes Filho / Ismar Frango Silveira.
 
 * 2 - 2017 - 2018 - Uma investigaÁ„o sobre a auto-organizaÁ„o em um enxame de VANTs
 DescriÁ„o: Os veÌculos aÈreos n„o tripulados (UAVs, do inglÍs, Unmanned Aerial Vehicles) pequenos e de baixo custo, muitas vezes chamados de Micro UAVs, possibilitam uma sÈrie de aplicaÁıes, o que representa uma grande motivaÁ„o para a realizaÁ„o de pesquisas que buscam a navegaÁ„o autÙnoma em diferentes cen·rios. As aplicaÁıes de UAVs autÙnomos s„o as mais diversas e incluem a detecÁ„o de alvos, escolta de objetos e alvos, vigil‚ncia, coleta de dados, planejamento de caminhos, monitoramento de ambientes, redes din‚micas de telecomunicaÁıes e o auxÌlio ao resgate de pessoas em desastres. Seja qual for a aplicaÁ„o, um dos principais desafios impostos È a definiÁ„o de mÈtodos e algoritmos que buscam a navegaÁ„o autÙnoma imposta pelos mais diversos ambientes e objetivos. Na literatura È possÌvel encontrar diversas propostas que buscam transpor esse desafio, em especial aqueles relacionados a m˙ltiplos UAVs operando em conjunto. Neste projeto, tarefas de navegaÁ„o fundamentais como pouso, decolagem e impedimento de colis„o ser„o a base para aplicaÁ„o de mÈtodos mais sofisticados que buscam a interaÁ„o entre m˙ltiplos UAVs na realizaÁ„o de determinados objetivos. O enfoque reside na construÁ„o de algoritmos e mÈtodos baseados no comportamento coletivo e social de revoada de p·ssaros, onde cada UAV corresponde a um p·ssaro.. 
-SituaÁ„o: ConcluÌdo; Natureza: Pesquisa. 
-Alunos envolvidos: GraduaÁ„o: (1) / Doutorado: (2) . 
-Integrantes: JosÈ Ahirton Batista Lopes Filho - Integrante / de Castro, Leandro Nunes - Coordenador / Carlos Candido de Oliveira Junior - Integrante / Ellias Matheus Braga e Silva - Integrante / Larissa Nami Fujimori Dozono - Integrante.
-Financiador(es): Mackpesquisa - AuxÌlio financeiro.
-N˙mero de produÁıes C, T & A: 1
+Situação: Concluído; Natureza: Pesquisa. 
+Alunos envolvidos: Graduaação: (1) / Doutorado: (2). 
+Integrantes: JosÈ Ahirton Batista Lopes Filho / de Castro, Leandro Nunes / Carlos Candido de Oliveira Junior / Ellias Matheus Braga e Silva / Larissa Nami Fujimori Dozono.
+Financiador: Mackpesquisa - Auxílio financeiro.
+Número de produções C, T & A: 1
 
 * 3 - 2016 - 2017 - Desenvolvimento de RecomendaÁ„o Inteligente para a Enjoei.com.br
 DescriÁ„o: O objetivo do projeto È o desenvolvimento de algoritmos de recomendaÁ„o inteligente para a loja virtual da Enjoei.com.br. O entreg·vel final do projeto È um protÛtipo funcional desenvolvido em uma linguagem de prototipaÁ„o adequada a um desenvolvimento ·gil pela empresa. Esse protÛtipo ser· testado, validado e recodificado pela empresa, devendo apresentar nÌvel de performance quando do teste em uma base de dados com volume real.. 
