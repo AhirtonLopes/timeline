@@ -487,13 +487,18 @@ Event and proceedings (IEEE):
 
 ## Videos and Podcasts
 
-1 - https://www.youtube.com/watch?v=fDgEZezYP7Y& - 05/11/2019 (School of AI SP #22)
-2 - https://www.youtube.com/watch?v=fDgEZezYP7Y& - 24/09/2019 (School of AI SP #20)
-3 - https://www.youtube.com/watch?v=F3v7PDjgnw4 - 27/08/2019 (School of AI SP #18)
+>1 - https://www.youtube.com/watch?v=fDgEZezYP7Y& - 05/11/2019 (School of AI SP #22)
+>2 - https://www.youtube.com/watch?v=fDgEZezYP7Y& - 24/09/2019 (School of AI SP #20)
+>3 - https://www.youtube.com/watch?v=F3v7PDjgnw4 - 27/08/2019 (School of AI SP #18)
+
 4 - https://www.youtube.com/watch?v=OqXnlP5SpkI - 18/06/2019 (School of AI #13)
+
 5 - https://youtu.be/sf-8RGfz8iU - 07/06/2019 (AI Brasil SP #19)
+
 6 - https://www.youtube.com/watch?v=OMlH8NArxB0 - 06/06/2019 (AI Brasil em SP #18) 
+
 7 - https://www.youtube.com/watch?v=Oq3HY7Pvh_k - 18/05/2019 (Big Data Brazil Experience 2019) 
+
 8 - https://www.youtube.com/watch?v=K13GeZB1gUE&t=12s - 07/05/2019 (School of AI #10) 
 9 - https://www.youtube.com/watch?v=za7bF6llG1w&list=PLCPYa0EFe0yvXppru3k1AtPToHxJpq6SZ&index=6 
 10 - https://www.youtube.com/watch?v=8YD_t20XAq8 - 30/01/2019 (Entrevista para o webshow The Velopers do iMasters) 
