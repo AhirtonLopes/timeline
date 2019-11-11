@@ -378,7 +378,7 @@ _Tags: `machine learning`, `data science`, `deep learning`, `autoencoders`, `CNN
 
 ### 2019-09-04 - IBM Bluetalks - Data Science e Inteligência Artificial - Desafios em Inteligência Artificial (pt-br)
 
-<a href="https://www.meetup.com/pt-BR/bluetalks/events/260093563/" target="_blank">IBM Bluetalks - Artficial Intelligence & Machine learning</a>
+<a href="https://www.meetup.com/pt-BR/bluetalks/events/260093563/" target="_blank">IBM Bluetalks - Data Science e Inteligência Artificial</a>
 
 <a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-do-big-ao-better-data" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-09-04-IBM_Bluetalks" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
 
@@ -390,7 +390,7 @@ Abstract:
 
 _Tags: `data science`, `artificial intelligence`, `deep learning`, `bluetalks`, `IBM`_
 
-### 2019-07-05 - Aula School of AI SP #7 -  (pt-br)
+### 2019-26-02 - Aula School of AI SP #7 - KNN e K-Means (pt-br)
 
 <a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #7 </a>
 
@@ -403,6 +403,48 @@ Abstract:
 > 
 
 _Tags: `machine learning`, `data science`, `data science and AI education`, `KNN`, `K-Means`, `open classes`_
+
+### 2019-16-02 - Capus Party 12 - Reconhecedor de Emoções com Tensorflow e Raspberry Pi (pt-br)
+
+<a href="https://campuse.ro/events/campus-party-brasil-2019/workshop/reconhecedor-de-emocoes-com-tensorflow-20-e-raspberry-pi-como-uma-ia-pode-ler-expressoes-humanas-cpbr12/" target="_blank">Campus Party Brasil 12</a>
+
+<a href="" target="_blank">photos</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
+
+### 2019-15-02 - Campus Party 12 - Oficina TjBot (pt-br)
+
+<a href="https://campuse.ro/events/campus-party-brasil-2019/workshop/faca-voce-mesmo-um-tjbot-um-robo-com-inteligencia-artificial-ibm-watson-cpbr12/" target="_blank">Campus Party Brasil 12</a>
+
+<a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-15-02-Campus_Party_Brasil_12" target="_blank">photos</a>
+
+Abstract:
+
+> .
+>
+> 
+
+_Tags: ``, ``, ``, ``, ``, ``_
+
+### 2019-15-01 - Aula School of AI SP #4 - Introdução a Ciência de Dados e Inteligência Artificial (pt-br)
+
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas" target="_blank">Aula School of AI SP #4 </a>
+
+<a href="https://www.slideshare.net/JosAhirtonBatistaLop/aula-01-school-of-ai-sp-back-to-basics" target="_blank">slides</a> |  <a href="https://github.com/AhirtonLopes/timeline/tree/master/2019-15-01-School_of_AI_04" target="_blank">photos</a> |  <a href="https://youtu.be/u_W7IxQl0jw?list=PLjdDBZW3EmXcw6UmFo04EIO2XXBahIx05" target="_blank">video</a>
+
+Abstract:
+
+> 4th School of AI SP class. Intro to Data Science and Artificial Intelligence.
+>
+> 
+
+_Tags: `machine learning`, `data science`, `data science and AI education`, `intro to data science`, `data science 101`, `open classes`_
 
 ## Papers and Blogposts
 
