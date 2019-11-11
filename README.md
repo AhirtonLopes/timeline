@@ -23,7 +23,7 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 * **Videos and Podcasts**: 2019/November - 2017/July
 * **Demonstrations and Open Classes**: 2019/November - 2018/January
 * **Projects**: 2019/November - 2008/August 
-* **Prizes and scholarships**: 2019/November - 2008/August 
+* **Prizes and scholarships**: 2019/November - 2007/August 
 
 #### Presentations' number: 50 from 2018/April onwards 
 
@@ -35,7 +35,7 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
 - [Projects (13)](#projects)
 - [Scholarships (03)](#scholarships)
-- [Prizes(13)](#prizes-and-academic-achievements)
+- [Prizes(12)](#prizes-and-academic-achievements)
 
 ## Conference and Meetup Talks
 
@@ -670,4 +670,3 @@ Número de produções C, T & A: 18
 * 2008 - Certificate of Competency in English, The University of Michigan.
 * 2008 - Participação no Desafio Nacional Acadêmico, ProNEAD.
 * 2007 - Participação no Desafio Nacional Acadêmico, ProNEAD.
-* 2005 - Leitor do Ano, Colégio Marista Maranhense.
