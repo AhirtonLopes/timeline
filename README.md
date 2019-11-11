@@ -487,8 +487,8 @@ Event and proceedings (IEEE):
 
 ## Videos and Podcasts
 
->1 - https://www.youtube.com/watch?v=fDgEZezYP7Y& - 05/11/2019 (School of AI SP #22)
->2 - https://www.youtube.com/watch?v=fDgEZezYP7Y& - 24/09/2019 (School of AI SP #20)
+*1 - https://www.youtube.com/watch?v=fDgEZezYP7Y& - 05/11/2019 (School of AI SP #22)
+*2 - https://www.youtube.com/watch?v=fDgEZezYP7Y& - 24/09/2019 (School of AI SP #20)
 >3 - https://www.youtube.com/watch?v=F3v7PDjgnw4 - 27/08/2019 (School of AI SP #18)
 
 4 - https://www.youtube.com/watch?v=OqXnlP5SpkI - 18/06/2019 (School of AI #13)
