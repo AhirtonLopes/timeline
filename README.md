@@ -16,12 +16,12 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 ### Contributions Summary
 
-* **Conference and Meetup Talks**: 2019/October - 2018/April
-* **Papers and Blogposts**: 2019/October - 2010/November 
-* **Videos and Podcasts**: 2019/October - 2017/July
-* **Demonstrations and Open Classes**: 2019/October - 2018/January
-* **Projects**: 2019/October - 2008/August 
-* **Prizes and scholarships**: 2019/October - 2008/August 
+* **Conference and Meetup Talks**: 2019/November - 2018/April
+* **Papers and Blogposts**: 2019/November - 2010/November 
+* **Videos and Podcasts**: 2019/November - 2017/July
+* **Demonstrations and Open Classes**: 2019/November - 2018/January
+* **Projects**: 2019/November - 2008/August 
+* **Prizes and scholarships**: 2019/November - 2008/August 
 
 #### Presentations' number: 49 from 2018/April onwards 
 
@@ -419,9 +419,67 @@ Event:
 
 Event:
 
-> <a href="http://www.aistic.org/wcist2016/oc16/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank">WorldCist'16 - 4th World Conference on Information Systems and Technologies</a>
+> <a href="http://www.aistic.org/wcist2016/oc16/modules/request.php?module=oc_program&action=program.php&p=program" target="_blank">WorldCist'16 - 4th World Conference on Information Systems and Technologies - Recife - PE</a>
 
-### <a href="https://www.researchgate.net/publication/321714879_Overview_and_Perspectives_on_the_Use_of_Adaptive_Concepts_in_AI_for_Greater_Immersion_in_Digital_Games" target="_blank">2016-March - Dissertation Paper - MSc. Degree — Panorama e Perspectivas da Utilização dos Conceitos de Adaptavidade em IA para Maior Imersão em Jogos Digitais (pt-br)</a>
+### <a href="http://tede.mackenzie.br/jspui/handle/tede/2810" target="_blank">2016-March - Masters Dissertation (MSc.) in Electric Engineering - Classificação de gênero em dados do Twitter baseada na extração de meta-atributos textuais (pt-br)</a>
+
+MSc. in Electric Engineering by way of Universidade Presbiteraiana Mackenzie (UPM):
+
+> <a href="http://tede.mackenzie.br/jspui/handle/tede/2810" target="_blank">Universidade Presbiteraiana Mackenzie (UPM) - São Paulo - SP</a>
+
+### <a href="https://www.researchgate.net/publication/334279562_Aplicacao_de_Otimizacao_por_Colonia_de_Formigas_para_o_Problema_do_Caixeiro_Viajante_Algoritmo_AS-TSP" target="_blank">2014-September - Natural Computing course - MSc. Degree — Aplicação de Otimização por Colônia de Formigas para o Problema do Caixeiro Viajante (Algoritmo AS-TSP) (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/334279473_Aplicacao_de_Algoritmo_Genetico_para_Reconhecimento_de_Padroes_Roletas_de_Las_Vegas_e_Atlantic_City_a_Computacao_Natural" target="_blank">2014-August - Natural Computing course - MSc. Degree — Aplicação de Algoritmo Genético para Reconhecimento de Padrões Roletas, de Las Vegas e Atlantic City à Computação Natural (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/334279327_Vida_Artificial_-_Um_Resumo_Da_criacao_de_vida_sintetica_ao_entendimento_dos_sistemas_vivos" target="_blank">2014-August - Natural Computing course - MSc. Degree — Vida Artificial - Um Resumo Da criação de vida sintética ao entendimento dos sistemas vivos (pt-br)</a>
+
+### <a href="https://www.researchgate.net/publication/284898807_Charactereological_Use_of_Roger_Verdier_for_Creating_Learning_Groups_in_Social_Networks_with_Social_Affinities" target="_blank">2014-May - Full event paper - 11th CONTECSI - International Conference on Information Systems and Technology Management - Charactereological Use of Roger Verdier for Creating Learning Groups in Social Networks with Social Affinities (pt-br)</a>
+
+Event:
+
+> <a href="http://www.contecsi.tecsi.org/index.php/contecsi/11contecsi" target="_blank">11th CONTECSI - International Conference on Information Systems and Technology Management- São Paulo - SP</a>
+
+### <a href="hhttps://www.researchgate.net/publication/284898791_A_Contribuicao_Cognitiva_da_Robotica_Educacional_como_Ferramenta_Interdisciplinar_no_Contexto_do_Ensino_Superior" target="_blank">2013-September - Full event paper - 19º Congresso Internacional ABED de Educação a Distância - A Contribuição Cognitiva da Robótica Educacional como Ferramenta Interdisciplinar no Contexto do Ensino Superior (pt-br)</a>
+
+Event:
+
+> <a href="" target="_blank">19º Congresso Internacional ABED de Educação a Distância - Salvador - BA</a>
+
+### <a href="https://www.researchgate.net/publication/327079169_Mineracao_de_dados_para_auxilio_na_divisao_de_grupos_socio-afetivos_levando_em_conta_o_fator_afinidade_social" target="_blank">2013-August - Bachelors Dissertation (BSc.) in Computer Engineering - Mineração de dados para auxílio na divisão de grupos sócio-afetivos levando em conta o fator afinidade social (pt-br)</a>
+
+BSc. in Computer Engineering by wya of Universidade Estadual do Maranhão (UEMA):
+
+> <a href="https://www.uema.br/" target="_blank">Universidade Estadual do Maranhão - São Luís - MA</a>
+
+### <a href="https://www.researchgate.net/publication/261488975_Respiratory_flow_estimation_using_data_fusion_techniques" target="_blank">2013-August - Business Engineering and Industrial Applications Colloquium (BEIAC), 2012 IEEE - Kuala Lumpur, Malaysia - Respiratory flow estimation using data fusion techniques (en-us)</a>
+
+Event and proceedings (IEEE):
+
+> <a href="https://ieeexplore.ieee.org/xpl/conhome/6214855/proceeding" target="_blank">2012 IEEE Business Engineering and Industrial Applications Colloquium (BEIAC) - Kuala Lumpur, Malaysia</a>
+
+### <a href="https://www.researchgate.net/publication/284730388_Um_Algoritmo_de_Clustering_no_Auxilio_a_Formacao_de_Grupos_Socio-Afetivos_Afins_para_o_Ensino_em_Ambientes_CSCL" target="_blank">2011-October - Sexta Conferencia Latinoamericana de Objetos de Aprendizaje y Tecnologías para la Educación - LACLO 2011 - Montevideo, Uruguay - Um Algoritmo de Clustering no Auxílio à Formação de Grupos Sócio-Afetivos Afins para o Ensino em Ambientes CSCL (pt-br)</a>
+
+Event:
+
+> <a href="http://www.laclo.org/laclo2011" target="_blank">Sexta Conferencia Latinoamericana de Objetos de Aprendizaje y Tecnologías para la Educación - LACLO 2011 - Montevideo, Uruguay</a>
+
+### <a href="https://www.researchgate.net/publication/261153683_Development_of_a_multitasking_mobile_robot_for_the_construction_of_educational_robotics_kits" target="_blank">2011-March - 2011 IEEE International Conference on Electronic Devices, Systems and Applications (ICEDSA) - Kuala Lumpur, Malaysia - Development of a multitasking mobile robot for the construction of educational robotics kits (en-us)</a>
+
+Event and proceedings (IEEE):
+
+> <a href="https://ieeexplore.ieee.org/xpl/conhome/5949580/proceeding" target="_blank">2011 IEEE International Conference on Electronic Devices, Systems and Applications (ICEDSA) - Kuala Lumpur, Malaysia</a>
+
+### <a href="https://www.researchgate.net/publication/284730009_Uma_Interface_Web_em_conjunto_com_algoritmo_de_clustering_no_auxilio_a_formacao_de_grupos_colaborativos_socio-afetivos" target="_blank">2010-November - Simpósio Brasileiro de Informática na Educação (SBIE 2010) - João Pessoa, PB - Uma Interface Web em conjunto com algoritmo de clustering no auxílio à formação de grupos colaborativos sócio-afetivos (pt-br)</a>
+
+Event and proceedings:
+
+> <a href="https://www.br-ie.org/pub/index.php/sbie/issue/view/47" target="_blank">Simpósio Brasileiro de Informática na Educação (SBIE 2010) - João Pessoa, PB</a>
+
+### <a href="https://www.researchgate.net/publication/224214062_Clustering_Algorithm_for_the_Socio-affective_Groups_Formation_in_Aid_of_Computer_Supported_Collaborative_Learning" target="_blank">2010-November - Simposio Brasileiro de Sistemas Colaborativos (SBSC-II) - Belo Horizonte, MG - Clustering Algorithm for the Socio-affective Groups Formation in Aid of Computer Supported Collaborative Learning (pt-br)</a>
+
+Event and proceedings (IEEE):
+
+> <a href="https://ieeexplore.ieee.org/document/5698527" target="_blank">Simposio Brasileiro de Sistemas Colaborativos (SBSC-II) - Belo Horizonte, MG</a>
 
 ## Videos and Podcasts
 
