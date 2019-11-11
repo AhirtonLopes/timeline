@@ -345,15 +345,15 @@ Abstract:
 
 _Tags: `machine learning`, `data science`, `data science and AI education`, `KNN`, `K-Means`, `open classes`_
 
-### 2019-06- - -  (pt-br)
+### 2019-17-04 - 7Masters em Plataformas Cognitivas - Microsoft Bot Framework (pt-br)
 
-<a href="" target="_blank">Aula School of AI SP #10 - Algoritmos K Nearest Neighbor e K-Means</a>
+<a href="meetup.com/pt-BR/iMasters/events/260476828/" target="_blank">7Masters em Plataformas Cognitivas - Microsoft Bot Framework</a>
 
 <a href="" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> |  <a href="" target="_blank">video</a>
 
 Abstract:
 
-> .
+> Gave a talk about "Microsoft Bot Framework" and its acapabilities as a cognitive plataform for chatbot development. Won the prize as one the 7Masters in Cognitive Pltaforms (sponsored by iMasters - https://imasters.com.br/ .
 >
 > 
 
