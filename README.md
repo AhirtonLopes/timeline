@@ -439,7 +439,7 @@ Event:
 
 > <a href="http://www.contecsi.tecsi.org/index.php/contecsi/11contecsi" target="_blank">11th CONTECSI - International Conference on Information Systems and Technology Management- São Paulo - SP</a>
 
-### <a href="hhttps://www.researchgate.net/publication/284898791_A_Contribuicao_Cognitiva_da_Robotica_Educacional_como_Ferramenta_Interdisciplinar_no_Contexto_do_Ensino_Superior" target="_blank">2013-September - Full event paper - 19º Congresso Internacional ABED de Educação a Distância - A Contribuição Cognitiva da Robótica Educacional como Ferramenta Interdisciplinar no Contexto do Ensino Superior (pt-br)</a>
+### <a href="https://www.researchgate.net/publication/284898791_A_Contribuicao_Cognitiva_da_Robotica_Educacional_como_Ferramenta_Interdisciplinar_no_Contexto_do_Ensino_Superior" target="_blank">2013-September - Full event paper - 19º Congresso Internacional ABED de Educação a Distância - A Contribuição Cognitiva da Robótica Educacional como Ferramenta Interdisciplinar no Contexto do Ensino Superior (pt-br)</a>
 
 Event:
 
