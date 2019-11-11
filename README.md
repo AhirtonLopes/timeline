@@ -16,7 +16,6 @@ Facebook:  [fb.com/page.ahirtonlopes](https://fb.com/page.ahirtonlopes)
 
 Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" target="_blank">The Velopers #25 - Ahirton Lopes</a> (pt-br)
 
-
 ### Contributions Summary
 
 * **Conference and Meetup Talks**: 2019/November - 2018/April
@@ -35,7 +34,8 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 - [Videos and Podcasts (24)](#videos-and-podcasts)
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
 - [Projects (13)](#projects)
-- [Prizes and scholarships (16)](#prizes-and-scholarships)
+- [Scholarships (03)](#scholarships)
+- [Prizes(13)](#prizes)
 
 ## Conference and Meetup Talks
 
@@ -677,13 +677,15 @@ Abstract:
 
 _Tags: `training`, `online`, `nodejs`, `javascript`, `iniciantes`, `docker`_
 
-## Scholarships, prizes and academic achievements
+## Scholarships
 
 * 2017 - Doutorado (em andamento) em Engenharia Elétrica e Computação pela Universidade Presbiteriana Mackenzie (Conceito CAPES 4). Universidade Presbiteriana Mackenzie, MACKENZIE, Brasil. Bolsista (modalidade isenção de taxas) da Universidade Presbiteriana Mackenzie (UPM).
 
 * 2014 - 2016 - Mestre em Engenharia Elétrica pela Universidade Presbiteriana Mackenzie - 2014 - 2016. Mestrado em Engenharia Elétrica (Conceito CAPES 4). Universidade Presbiteriana Mackenzie, MACKENZIE, Brasil. Título: Classificação de Gênero em Dados do Twitter Baseada na Extração de Meta-Atributos Textuais, Ano de Obtenção: 2016. Orientador: Leandro Nunes de Castro. Coorientador: Rodrigo Pasti. Bolsista do Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.  Palavras-chave: Aprendizado de Máquina; Classificação; Gênero; Mídias Sociais; Twitter; Extração. Grande área: Engenharias. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação.
 
 * 2008 - 2013 - Bacharel em Engenharia da Computação pela Universidade Estadual do Maranhão - Graduação em Engenharia da Computação. Universidade Estadual do Maranhão, UEMA, Brasil. Título: Mineração de Dados para Auxílio na Divisão de Grupos Sócio-Afetivos Levando em Conta o Fator Afinidade Social. Orientador: Cícero Costa Quarto. Bolsista da Universidade Estadual do Maranhão (BIC-UEMA).
+
+## Prizes and academic achievements
 
 * 2019 - Participação como ex-participante e mentor no 5o Hackathon Globo 2019 no Rio de Janeiro, Rede Globo.
 * 2018 - Participação no 4o Hackathon Globo 2018 no Rio de Janeiro, Rede Globo.
