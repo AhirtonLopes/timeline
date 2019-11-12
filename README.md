@@ -478,9 +478,61 @@ _Tags: `machine learning`, `data science`, `data science and AI education`, `int
 
 <a href="https://www.meetup.com/pt-BR/DevelopersBR/events/255746930/" target="_blank">Oficina Online Developers BR + AI Brasil</a>
 
-### 2018-31-10 - GDG DataFest 2018 -  (pt-br)
+### 2018-31-10 - GDG DataFest 2018 (pt-br)
 
-<a href="https://gdg-campinas.github.io/datafest/" target="_blank">GDG DataFest 2018</a>
+<a href="https://gdg-campinas.github.io/datafest-2018/speakers/" target="_blank">GDG DataFest 2018</a>
+
+### 2018-03-10 - Aula School of AI SP #1 (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/254997216/" target="_blank">Aula School of AI SP #1</a>
+
+### 2018-31-10 - Chatbot Brasil Meetup @Nextel - Moderação de Painel (pt-br)
+
+<a href="https://www.sympla.com.br/chatbot-brasil-meetup--nextel__363585" target="_blank">Chatbot Brasil Meetup @Nextel</a>
+
+### 2018-04-09 - Meetup Developers BR @Microsoft - Algoritmos de recomendação em Python (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/DevelopersBR/events/254075042/" target="_blank">Meetup Developers BR @Microsoft</a>
+
+### 2018-08-08 - 16º Meetup do Facebook DevC SP + AI Braasil: Inteligência Artificial - Principais Conceitos em Aprendizagem de Máquina (pt-br)
+
+<a href="https://www.facebook.com/events/679522185734062/" target="_blank">16º Meetup do Facebook DevC SP + AI Braasil: Inteligência Artificial</a>
+
+### 2018-31-07 - Bot Battles #6 - Participação na batalha de bots com a Duratex MIA (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/botbattles/events/252875065/" target="_blank">Bot Battles #6</a>
+
+### 2018-27-07 - Meetup AI Brasil - Inovando a Saúde com adoção de Inteligência Artificial (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/253059807/" target="_blank">Meetup AI Brasil - Inovando a Saúde com adoção de Inteligência Artificial</a>
+
+### 2018-20-07 - TDC SP 2018 - Trilha Machine Learning - Apresentação na Trilha Stadium (principal) - Análise Forense de mensagens em rede social - O que podemos saber de voce por meio de PLN e ML? (pt-br)
+
+<a href="http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-machine-learning" target="_blank"> TDC SP 2018 - Trilha Machine Learning</a>
+
+### 2018-21-06 - PAPIs.io LATAM 2018 - Towards Author Profiling - A Methodology for Gender Expression Classification (en-us)
+
+<a href="https://www.papis.io/latam-2018" target="_blank">PAPIs.io LATAM 2018</a>
+
+### 2018-09-06 - Mini-curso presencial em Machine Learning (AI Brasil + Developers BR) - Introdução à Inteligência Artificial e Data Science (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/251399768/" target="_blank">Mini-curso presencial em Machine Learning (AI Brasil + Developers BR)</a>
+
+### 2018-02-06 e 2018-03-06 - Participação no Hackathon UberHACK 2018 -  (pt-br)
+
+<a href="https://www.uber.com/pt-BR/newsroom/interface-de-voz-para-apps-de-mobilidade-vence-hackathon-da-uber/" target="_blank">Hackathon UberHACK 2018</a>
+
+### 2018-28-04 e 2018-29-04 - Participação no Hackathon Globo 2018 - App Minha História (Mira) (pt-br)
+
+<a href="https://hackathon.redeglobo.com.br/" target="_blank">Hackathon Globo 2018</a>
+
+### 2018-28-04 e 2018-29-04 - Participação no Hackathon Globo 2018 - App Minha História (Mira) (pt-br)
+
+<a href="https://hackathon.redeglobo.com.br/" target="_blank">Hackathon Globo 2018</a>
+
+### 2018-19-04 - AI Brasil #8 + Accenture = Avanços em Cybersecurity - Mediação de painel (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/249641934/" target="_blank">AI Brasil #8</a>
 
 ## Papers and Blogposts
 
