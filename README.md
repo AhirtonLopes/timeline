@@ -446,6 +446,42 @@ Abstract:
 
 _Tags: `machine learning`, `data science`, `data science and AI education`, `intro to data science`, `data science 101`, `open classes`_
 
+### 2018-14-12 - Deep Learning São Paulo #7 - Transfer Learning 101 - Como reaproveitar conhecimentos pré existentes em nossos modelos?< (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/Deep-Learning-Sao-Paulo/events/256601756/" target="_blank">Deep Learning São Paulo #7</a>
+
+### 2018-08-12 - AI Fest 2018 - Curadoria e palestras Técnicas em Deep Learning (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/ai-brasil/events/255732132/" target="_blank">AI Fest 2018</a>
+
+### 2018-23-11 - Pré Evento Ocean Challenge na Samsung Ocean Manaus - Avanços em Deep Learning (pt-br)
+
+<a href="https://www.oceanbrasil.com/index.php?r=agenda%2Findex" target="_blank">Pré Evento Ocean Challenge na Samsung Ocean Manaus</a>
+
+### 2018-21-11 - Aula School of AI #2 (pt-br)
+
+<a href="https://github.com/SchoolOfAISaoPaulo/aulas/tree/master/02_aula" target="_blank">Aula School of AI #2</a>
+
+### 2018-17-11 - Conferência Bots Brasil 2018 - IA e Algoritmos de Recomendação — Chatbots além das respostas prontas (pt-br)
+
+<a href="https://www.sympla.com.br/conferencia-bots-brasil-2018__323117" target="_blank">Conferência Bots Brasil 2018</a>
+
+### 2018-10-11 - Roadsec 2018 - Oficina Construção de Chatbots AI Brasil (pt-br)
+
+<a href="https://roadsec.com.br/atividades-rssp18#ai-brasil" target="_blank">Roadsec 2018</a>
+
+### 2018-09-11 - Oficina Online Developers BR + AI Brasil (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/DevelopersBR/events/255746930/" target="_blank">Oficina Online Developers BR + AI Brasil</a>
+
+### 2018-07-11 - Oficina Online Developers BR + AI Brasil (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/DevelopersBR/events/255746930/" target="_blank">Oficina Online Developers BR + AI Brasil</a>
+
+### 2018-31-10 - GDG DataFest 2018 -  (pt-br)
+
+<a href="https://gdg-campinas.github.io/datafest/" target="_blank">GDG DataFest 2018</a>
+
 ## Papers and Blogposts
 
 ### <a href="https://sites.google.com/view/upm-wppgeec/anais-dos-eventos/ii-wppgeec?authuser=0" target="_blank">2019-October - Short Paper — Detecção Precoce de Estudantes em Risco de Evasão Usando Dados Administrativos e Aprendizagem de Máquina (pt-br)</a>
