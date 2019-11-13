@@ -530,7 +530,7 @@ _Tags: `machine learning`, `data science`, `data science and AI education`, `int
 
 <a href="https://www.meetup.com/pt-BR/ai-brasil/events/249641934/" target="_blank">AI Brasil #8</a>
 
-### 2017-12-08 - Nerdzao #23 - Inteligência Artificial - Redes neurais artificias, o que são (e onde vivem)? (pt-br)
+### 2018-31-01 - Nerdzao #23 - Inteligência Artificial - Redes neurais artificias, o que são (e onde vivem)? (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/Nerdzao/events/246713740/" target="_blank">Nerdzao #23 - Inteligência Artificial</a>
 
