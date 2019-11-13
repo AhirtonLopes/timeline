@@ -18,18 +18,18 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 
 ### Contributions Summary
 
-* **Conference and Meetup Talks**: 2019/November - 2018/April
+* **Conference and Meetup Talks**: 2019/November - 2017/August
 * **Papers and Blogposts**: 2019/November - 2010/November 
 * **Videos and Podcasts**: 2019/November - 2017/July
 * **Demonstrations and Open Classes**: 2019/November - 2018/January
 * **Projects**: 2019/November - 2008/August 
 * **Prizes and scholarships**: 2019/November - 2007/August 
 
-#### Presentations' number: 51 from 2018/April onwards 
+#### Presentations' number: 52 from 2017/August onwards 
 
 ## Table of Contents
 
-- [Conference and Meetup Talks (51)](#conference-and-meetup-talks)
+- [Conference and Meetup Talks (52)](#conference-and-meetup-talks)
 - [Papers and Blogposts (19)](#papers-and-blogposts)
 - [Videos and Podcasts (25)](#videos-and-podcasts)
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
