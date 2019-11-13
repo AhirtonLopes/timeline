@@ -526,13 +526,17 @@ _Tags: `machine learning`, `data science`, `data science and AI education`, `int
 
 <a href="https://hackathon.redeglobo.com.br/" target="_blank">Hackathon Globo 2018</a>
 
-### 2018-28-04 e 2018-29-04 - Participação no Hackathon Globo 2018 - App Minha História (Mira) (pt-br)
-
-<a href="https://hackathon.redeglobo.com.br/" target="_blank">Hackathon Globo 2018</a>
-
 ### 2018-19-04 - AI Brasil #8 + Accenture = Avanços em Cybersecurity - Mediação de painel (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/ai-brasil/events/249641934/" target="_blank">AI Brasil #8</a>
+
+### 2017-12-08 - Nerdzao #23 - Inteligência Artificial - Redes neurais artificias, o que são (e onde vivem)? (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/Nerdzao/events/246713740/" target="_blank">Nerdzao #23 - Inteligência Artificial</a>
+
+### 2017-12-08 - NerdZão Day #1 - 6 Trilhas Tech Simultâneas - Computação Natural e Redes Neurais Artificiais (pt-br)
+
+<a href="https://www.meetup.com/pt-BR/Nerdzao/events/241571883/" target="_blank">NerdZão Day #1</a>
 
 ## Papers and Blogposts
 
