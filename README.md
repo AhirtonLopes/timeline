@@ -51,7 +51,7 @@ Abstract:
 > 
 > 
 
-_Tags: `machine learning`, `artificial intelligence`, `AI squads`, `ÀI career`, `Data Scientist`, `Data Squad`_
+_Tags: `machine learning`, `artificial intelligence`, `security`, `URL classifier`_
 
 ### 2019-09-11 - Meetup AI Brasil em SP #25 - O que se espera da tal Equipe de Dados? (pt-br)
 
