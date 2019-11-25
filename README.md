@@ -39,6 +39,20 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 
 ## Conference and Meetup Talks
 
+### 2019-23-11 - Wokshop na Roadsec 2019 - Criando uma Inteligência Artificial para Segurança da Informação (pt-br)
+
+<a href="https://roadsec.com.br/ai-brasil-1" target="_blank">Wokshop na Roadsec 2019 - Criando uma Inteligência Artificial para Segurança da Informação</a>
+
+<a href="https://github.com/AhirtonLopes/Roadsec2019" target="_blank">demos</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+> AI Brasil had a workshop titled "Creating an Artificial Intelligence for Information Security" at Roadsec 2019 where newcomers to the area could code their first URL classicator, using pre avaiable data as well as learn more about Deep Learning including tecniques such as Autoencoders, RNNs, CNNs and mucj more.
+> 
+> 
+
+_Tags: `machine learning`, `artificial intelligence`, `AI squads`, `ÀI career`, `Data Scientist`, `Data Squad`_
+
 ### 2019-09-11 - Meetup AI Brasil em SP #25 - O que se espera da tal Equipe de Dados? (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/ai-brasil/events/266019549/" target="_blank">Meetup AI Brasil em São Paulo #25 | LCoN Mackenzie + AXONDATA</a>
