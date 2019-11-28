@@ -29,7 +29,7 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 
 ## Table of Contents
 
-- [Conference and Meetup Talks (52)](#conference-and-meetup-talks)
+- [Conference and Meetup Talks (54)](#conference-and-meetup-talks)
 - [Papers and Blogposts (19)](#papers-and-blogposts)
 - [Videos and Podcasts (25)](#videos-and-podcasts)
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
@@ -43,7 +43,7 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 
 <a href="https://www.meetup.com/ai-brasil/events/266193471/" target="_blank">Meetup AI Brasil em São Paulo #26 | FC Nuvem - IA é para todos?</a>
 
-<a href="" target="_blank">demos</a> |  <a href="" target="_blank">photos</a> 
+<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-ia-e-para-todos" target="_blank">slides</a> |  <a href="" target="_blank">photos</a> 
 
 Abstract:
 
@@ -51,7 +51,7 @@ Abstract:
 > 
 > 
 
-_Tags: `machine learning`, `artificial intelligence`, `security`, `URL classifier`_
+_Tags: _Tags: `machine learning`, `artificial intelligence`, `AI ethics`, `cognitive bias`, `ai fairness`_
 
 ### 2019-26-11 - Roda de Conversa - Samsung Ocean - Painel UX x AI: Como a Inteligência Artificial impacta a vida do usuário (pt-br)
 
