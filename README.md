@@ -39,6 +39,35 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 
 ## Conference and Meetup Talks
 
+### 2019-27-11 - Afinal, IA é para todos? Como viés cognitivo e fatores sócio culturais afetam nossos algoritmos (pt-br)
+
+<a href="https://www.meetup.com/ai-brasil/events/266193471/" target="_blank">Meetup AI Brasil em São Paulo #26 | FC Nuvem - IA é para todos?</a>
+
+<a href="" target="_blank">demos</a> |  <a href="" target="_blank">photos</a> 
+
+Abstract:
+
+> Want to find out if we already have really accesible AIs? Do our algorithms have an expiration date? Can an application made in a "first world country" really solve "third world" problems? And if things don't go well, what are we doing about it?.
+> 
+> 
+
+_Tags: `machine learning`, `artificial intelligence`, `security`, `URL classifier`_
+
+### 2019-26-11 - Roda de Conversa - Samsung Ocean - Painel UX x AI: Como a Inteligência Artificial impacta a vida do usuário (pt-br)
+
+<a href="http://www.oceanbrasil.com/agenda/detalhes/?event_code=16705dd30d25da876" target="_blank">Samsung Ocean - Painel UX x AI: Como a Inteligência Artificial impacta a vida do usuário</a>
+
+<a href="" target="_blank">photo</a> 
+
+Abstract:
+
+> In this panel practitioners addressed Artificial Intelligence issues that impact users' lives. Increasingly, we see examples of situations where Artificial Intelligence changes the user experience. From the simplest to the most complex activities, we see that AI is something to consolidate and will confirm this statistic of interesting cases and facts.
+> 
+> 
+
+_Tags: `user experience`, `artificial intelligence`, `use cases`_
+
+
 ### 2019-23-11 - Wokshop na Roadsec 2019 - Criando uma Inteligência Artificial para Segurança da Informação (pt-br)
 
 <a href="https://roadsec.com.br/ai-brasil-1" target="_blank">Wokshop na Roadsec 2019 - Criando uma Inteligência Artificial para Segurança da Informação</a>
