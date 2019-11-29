@@ -25,11 +25,11 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 * **Projects**: 2019/November - 2008/August 
 * **Prizes and scholarships**: 2019/November - 2007/August 
 
-#### Presentations' number: 52 from 2017/August onwards 
+#### Presentations' number: 55 from 2017/August onwards 
 
 ## Table of Contents
 
-- [Conference and Meetup Talks (54)](#conference-and-meetup-talks)
+- [Conference and Meetup Talks (55)](#conference-and-meetup-talks)
 - [Papers and Blogposts (19)](#papers-and-blogposts)
 - [Videos and Podcasts (25)](#videos-and-podcasts)
 - [Demonstrations and Open Classes (00)](#demonstrations-and-open-classes)
