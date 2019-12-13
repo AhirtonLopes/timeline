@@ -43,7 +43,7 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 
 <a href="https://gdg-campinas.github.io/datafest/" target="_blank">Datafest 2019</a>
 
-<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-ml-na-sala-de-aula-201560285" target="_blank">slides</a> |  <a href="" target="_blank">video - em breve</a> 
+<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-ml-na-sala-de-aula-201560285" target="_blank">slides</a> |  <a href="" target="_blank">video - em breve</a> |  <a href="" target="_blank">photos - em breve</a> 
 
 Abstract:
 
