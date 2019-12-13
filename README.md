@@ -18,14 +18,14 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 
 ### Contributions Summary
 
-* **Conference and Meetup Talks**: 2019/November - 2017/August
-* **Papers and Blogposts**: 2019/November - 2010/November 
-* **Videos and Podcasts**: 2019/November - 2017/July
-* **Demonstrations and Open Classes**: 2019/November - 2018/January
-* **Projects**: 2019/November - 2008/August 
-* **Prizes and scholarships**: 2019/November - 2007/August 
+* **Conference and Meetup Talks**: 2019/December - 2017/August
+* **Papers and Blogposts**: 2019/December - 2010/November 
+* **Videos and Podcasts**: 2019/December - 2017/July
+* **Demonstrations and Open Classes**: 2019/December - 2018/January
+* **Projects**: 2019/December - 2008/August 
+* **Prizes and scholarships**: 2019/December - 2007/August 
 
-#### Presentations' number: 55 from 2017/August onwards 
+#### Presentations' number: 56 from 2017/August onwards 
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 
 ## Conference and Meetup Talks
 
-### 2019-11-12 -  (pt-br)
+### 2019-11-12 - Datafest 2019 - ML na sala de aula: como Ciência de Dados e IA estão mudando a educação no Brasil (pt-br)
 
 <a href="https://gdg-campinas.github.io/datafest/" target="_blank">Datafest 2019</a>
 
