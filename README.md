@@ -39,6 +39,20 @@ Wanna hear some of my history so far? - <a href="https://youtu.be/8YD_t20XAq8" t
 
 ## Conference and Meetup Talks
 
+### 2019-11-12 -  (pt-br)
+
+<a href="https://gdg-campinas.github.io/datafest/" target="_blank">Datafest 2019</a>
+
+<a href="https://www.slideshare.net/JosAhirtonBatistaLop/jose-ahirton-lopes-ml-na-sala-de-aula-201560285" target="_blank">slides</a> |  <a href="" target="_blank">video - em breve</a> 
+
+Abstract:
+
+> Data generated through daily monitoring of students and teachers in both traditional learning and e-learning environments can be used to design education-related improvements such as better recommendation of teaching materials, creation of personalized study plans and even generate predictions about student performance, for example, avoiding student dropout. All of these tasks were attacked by state-of-the-art Machine Learning algorithms. In this presentation, we will have an immersive experience with some of these designs and algorithms, so we can see what comes next.
+> 
+> 
+
+_Tags: _Tags: `machine learning`, `artificial intelligence`, `AI`, `edutech`_
+
 ### 2019-04-12 - AI, Dev & Data for Good - ML na sala de aula: como Ciência de Dados e IA estão mudando a educação no Brasil (pt-br)
 
 <a href="https://www.meetup.com/pt-BR/azureBrasilComunidade/events/266751982/" target="_blank">AI, Dev & Data for Good - online - M. Learning, Bots, Terraform, Data Science</a>
